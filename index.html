@@ -5,5 +5,101 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
   </head>
-  <body></body>
+  <body>
+    <script>
+      const HARDCODED_KEYWORD = "Python";
+      const HARDCODED_MATCH_PERCENTAGE = 87;
+
+      const analyzeButton = document.getElementById("analyze-button");
+      const jobDescription = document.getElementById("job-description");
+      const resumeText = document.getElementById("resume-text");
+      const resultsContainer = document.getElementById("results-container");
+      const loadingSpinner = document.getElementById("loading-spinner");
+      const percentageDisplay = document.getElementById("percentage-display");
+      const keywordDisplay = document.getElementById("keyword-display");
+      const messageModal = document.getElementById("message-modal");
+      const modalTitle = document.getElementById("modal-title");
+      const modalBody = document.getElementById("modal-body");
+      const modalClose = document.getElementById("modal-close");
+
+      function showModal(title, message) {
+        modalTitle.textContent = title;
+        modalBody.textContent = message;
+        messageModal.classList.remove("hidden");
+        messageModal.classList.add("flex");
+      }
+
+      function hideModal() {
+        messageModal.classList.remove("flex");
+        messageModal.classList.add("hidden");
+      }
+
+      function analyzeMatch(jobDesc, resume) {
+        return new Promise((resolve) => {
+          setTimeout(() => {
+            console.log("Job Description Length:", jobDesc.length);
+            console.log("Resume Length:", resume.length);
+
+            resolve({
+              matchPercentage: HARDCODED_MATCH_PERCENTAGE,
+              keyword: HARDCODED_KEYWORD,
+            });
+          }, 1500);
+        });
+      }
+
+      analyzeButton.addEventListener("click", async () => {
+        const jobDesc = jobDescription.value.trim();
+        const resume = resumeText.value.trim();
+
+        if (!jobDesc || !resume) {
+          showModal(
+            "Missing Input",
+            "Please paste both the Job Description and your Resume text before analyzing."
+          );
+          return;
+        }
+
+        analyzeButton.disabled = true;
+        loadingSpinner.classList.remove("hidden");
+        resultsContainer.classList.add("opacity-0");
+
+        try {
+          const result = await analyzeMatch(jobDesc, resume);
+
+          percentageDisplay.textContent = `${result.matchPercentage}%`;
+          keywordDisplay.textContent = result.keyword;
+
+          setTimeout(() => {
+            resultsContainer.classList.remove("opacity-0");
+          }, 10);
+        } catch (error) {
+          console.error("Analysis failed:", error);
+          showModal(
+            "Analysis Error",
+            "An error occurred during the simulated analysis. Check console for details."
+          );
+        } finally {
+          analyzeButton.disabled = false;
+          loadingSpinner.classList.add("hidden");
+        }
+      });
+
+      modalClose.addEventListener("click", hideModal);
+      messageModal.addEventListener("click", (e) => {
+        if (e.target === messageModal) {
+          hideModal();
+        }
+      });
+
+      window.onload = () => {
+        jobDescription.value =
+          "The ideal candidate will have strong experience in Python development, particularly with data science libraries like Pandas and NumPy. Knowledge of cloud technologies is a plus.";
+        resumeText.value =
+          "Experienced Software Engineer skilled in various programming languages, including Python, Java, and JavaScript. Passionate about building robust, scalable applications.";
+
+        resultsContainer.classList.add("opacity-0");
+      };
+    </script>
+  </body>
 </html>
