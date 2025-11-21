@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FastAPI Upload</title>
+  </head>
+  <body>
+    <h2>Apply for Job</h2>
+
+    <div>
+      <label>Desired Job Title:</label><br />
+      <input
+        type="text"
+        id="desiredJobTitleInput"
+        placeholder="Enter Job Description"
+      />
+      <br /><br />
+
+      <label>Resume (PDF/Docx):</label><br />
+      <input type="file" id="fileInput" accept=".pdf, .docx" /><br /><br />
+
+      <button onclick="sendData()">Submit Application</button>
+    </div>
+
+    <script>
+      async function sendData() {
+        const jobTitle = document.getElementById("desiredJobTitleInput").value;
+        const fileInput = document.getElementById("fileInput");
+        const file = fileInput.files[0];
+
+        if (!file || !jobTitle) {
+          alert("Please fill in all fields");
+          return;
+        }
+
+        const formData = new FormData();
+        formData.append("resume", file);
+        formData.append("job_title", jobTitle);
+
+        try {
+          const response = await fetch(
+            "http://127.0.0.1:8000/submit-job-application/",
+            {
+              method: "POST",
+              body: formData,
+            }
+          );
+
+          const result = await response.json();
+          console.log("Success:", result);
+          alert("success");
+        } catch (error) {
+          console.error("Error:", error);
+          alert("ERROR");
+        }
+      }
+    </script>
+  </body>
+</html>
