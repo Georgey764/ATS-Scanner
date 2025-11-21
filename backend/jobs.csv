@@ -1,806 +1,732 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"in-b5632e86bf80765a","indeed","https://www.indeed.com/viewjob?jk=b5632e86bf80765a","https://apply-v41.jobsync.io/indeed/r-app/4a34e4a139462bce05a0399a43b2f0009c9a3e27073bc3d779a4fbec/","Event Security - Super Bowl LX Events - OVERNIGHTS","Allied Universal Event Services","Santa Clara, CA, US","2025-11-20","parttime","","hourly","","","USD",False,"","","","","Event Security \\- Super Bowl LX Events \\- OVERNIGHTS
+"in-eacbedd78c74a946","indeed","https://www.indeed.com/viewjob?jk=eacbedd78c74a946","http://www.indeed.com/job/lead-java-developer-eacbedd78c74a946","LEAD java developer","Hudson Healthcare Solutions","Jersey City, NJ, US","2025-11-21","contract","direct_data","hourly",60.0,65.0,"USD",False,"","","","","**Job Description**
 
-**Overview**
-------------
+**Top Must Have:**
 
+* Full Stack Developer
+* Hands on Coding
 
-Company Overview:
+**Senior/Lead Java Developer:**
 
+* Minimum of 10 years of technical experience in architecture, design and development of applications.
+* Experience in J2EE technologies, Advanced Java, Spring Boot Angular, and REST API
+* Experienced in SQL, PL/SQL, PowerShell, and scripting knowledge
+* Understanding of JSON, SOAP, REST, RAML, SAML, oAuth and OIDC \\- application, message, communication protocols and authentication mechanisms
+* Experience and understanding of Frameworks like Spring boot/Hibernate
+* Working experience with Web Services, REST APIs, etc.
+* Working experience with relational databases such as Oracle/SQL
+* Experience working on (DevOps)container technologies like Docker, Kubernetes
+* Experience with version control using GIT, Jira and other Dev Tools
+* Experienced in Linux and Windows operating systems
+* Strong understanding of development, secure coding, SDLC methodologies
+* Ability to collaborate and communicate effectively with business and technology teams
+* Strong analytical, problem\\-solving, and troubleshooting skills
+* Create practical, robust, and scalable architectures and solutions
+* Experience in the Identity Access Management technologies and products is a plus
+* Experience in leading motivated junior Java Developers
+* Expertise in reviewing codes of other Developers and identifying issues
+* Assigning and monitoring tasks of Development team
+* Working closely with Scrum Master/Project Manager to prioritize tasks
+* Supporting Testing team
+* Experience in Financial services is desired
 
-Kick off your exciting career in Event Security with Allied Universal® Event Services, the go\\-to leader in crowd management and event staffing. Dive into the action at sports stadiums, concerts, festivals, and convention centers, and thrive on the energy of being where it all happens. Join a lively team that services thousands of venues each year, ensuring safety and fun for everyone. Enjoy the perks of flexible part\\-time work that fits your lifestyle\\-ideal for students, retirees, or anyone seeking a dynamic job. We offer job opportunities in event staff, security, and operations. Join our welcoming, collaborative, and innovative team, and benefit from a range of perks depending on your role and hours. At Allied Universal®, every day brings a new adventure. Ready to make your mark in the event industry? Join us and be part of the excitement!
+Job Type: Contract
 
-**Job Description**
--------------------
+Pay: $60\\.00 \\- $65\\.00 per hour
 
-**COME WORK SUPER BOWL LX EVENTS IN SANTA CLARA AND ACROSS THE BAY AREA \\- FEBRUARY 2026!**
+Benefits:
 
-  
-
-**DON'T MISS OUT, BE PART OF A PHENOMENAL TEAM!**
-
-**Weekly Pay**
-
-
-**All shifts available**
-
-  
-
-**$27 /hr (with active CA state security license) \\***
-
-  
-
-* pay rate specific to SUPER BOWL LX EVENTS contingent on obtaining a California security license, all other events at Levi's Stadium start at $25 /hr.
-
-  
-
-
-
-Allied Universal® Event Services is looking to hire security staff to work official Super Bowl LX events. This position is responsible for checking bags, enforcing access control and implementing policies and procedures for the safety of the guests while providing superior customer service.
-
-  
-
-
-
-**ESSENTIAL JOB DUTIES AND RESPONSIBILITIES**: Those duties necessary to meet the minimum requirements of the position. Other duties may be assigned.
-
-* Assist in all aspects of event day preparation and execution.
-* Allow appropriate entry into each venue, may collect and/or scan tickets, verify wristbands and badges, direct traffic coming in and out of the venue.
-* Screen guests during entry via bag searching, hand wand or metal detector, and ID verification.
-* Protect guests, staff, and venue ownership group assets by watching for security breaches at vital checkpoints.
-* Respond quickly to potential crowd control issues and provide escorts for unruly guests when ejections are warranted.
-* Demonstrate an understanding of the policies, procedures and regulations of different venues, facilities and events.
-* Provide a positive experience for guests as they arrive at your facility entrance, aisle, concourse area or other location
-* Provide guests with helpful directions and/or suggestions that will enhance their entertainment experience.
-
-**QUALIFICATIONS**: To perform this job successfully, the individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skills, and/or experience required. Reasonable accommodation may be made to enable individuals with disabilities to perform the essential functions.
-
-* Must be 18 years of age or older.
-* Must have a high school diploma or equivalent.
-* Licensing requirements are subject to state and/or local laws and regulations and may be required prior to employment.
-* As a condition of employment, candidate must successfully complete a background investigation and a post\\-offer/pre\\-employment drug/alcohol test; additional screening may be required if driving a customer or company owned vehicle.
-* Able to use good independent judgment and discretion.
-* Must be able to work overtime as needed.
-* Outstanding oral and written communication skills.
-
-**PERKS AND BENEFITS:**
-
-
-* Part\\-time flexible scheduling under 30 hours/week that fit with your personal life goals
 * 401(k)
-* Sick Pay
-* Ongoing paid training programs and career growth opportunities
-* Employee discounts through our perks program to your favorite restaurants, entertainment venues, and much more!
+* Dental insurance
+* Flexible schedule
+* Paid time off
+* Tuition reimbursement
+* Vision insurance
 
+Work Location: In person","","https://www.indeed.com/cmp/Hudson-Healthcare-Solutions","","","","","","","","","","","",""
+"in-89dcac4ed7ab04e2","indeed","https://www.indeed.com/viewjob?jk=89dcac4ed7ab04e2","https://apply.workable.com/j/F63DFB6B0E","Senior iOS Engineer","mLabs","New York, NY, US","2025-11-21","","direct_data","yearly",250000.0,375000.0,"USD",True,"","","","-resources@mlabs.city, legal@mlabs.city","### **Senior iOS Engineer (Mobile Lead, Web3 Focus)**
 
-PPO: 10015
+**Location:** Remote \\- NY or CA preference \\- will consider US remote
 
-**Closing**
------------
+**Compensation:** $250K \\- $375K
 
 
-Allied Universal® is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race/ethnicity, age, color, religion, sex, sexual orientation, gender identity, national origin, genetic information, disability, protected veteran status or relationship/association with a protected veteran, or any other basis or characteristic protected by law. For more information: www.aus.com
+We are seeking a highly motivated and experienced **Senior iOS Engineer** to take the mobile lead role in shaping the user experience for an innovative, new asset layer and decentralized platform. This is a unique opportunity to drive the architecture, development, and evolution of our native iOS applications, focusing on delivering a simple, elegant, and trustworthy mobile experience for complex on\\-chain asset interactions.
 
-  
-
-
-
-If you have any questions regarding Equal Employment Opportunity, have difficulty using the online system and require an alternate method to apply, or require an accommodation at any time during the recruitment and/or employment process, please contact our local Human Resources department. To find an office near you, please visit: www.aus.com/offices.
-
-**Requisition ID**
-------------------
-
-  
-
-2025\\-1481470","","https://www.indeed.com/cmp/Allied-Universal-Event-Services","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5a513178d67f32e4d72f3d22f38bfb0d","http://www.aus.com/our-services/professional-services/event-services","Irvine, CA","Decline to state","Decline to state","","","","","","",""
-"in-ac97350479c5a0a9","indeed","https://www.indeed.com/viewjob?jk=ac97350479c5a0a9","https://jobs.dayforcehcm.com/en-US/atricure/CANDIDATEPORTAL/jobs/10499","Engineering Intern","AtriCure, Inc.","Pleasanton, CA, US","2025-11-20","parttime, fulltime, internship","direct_data","hourly",24.0,28.0,"USD",False,"","","","","AtriCure, Inc. provides innovative technologies for the treatment of Afib and related conditions. Afib affects more than 33 million people worldwide. Electrophysiologists and cardiothoracic surgeons around the globe use AtriCure technologies for the treatment of Afib and reduction of Afib related complications. AtriCure’s Isolator® Synergy™ Ablation System is the first medical device to receive FDA approval for the treatment of persistent Afib. AtriCure’s AtriClip® Left Atrial Appendage Exclusion System products are the most widely sold LAA management devices worldwide. AtriCure’s Hybrid AF™ Therapy is a minimally invasive procedure that provides a lasting solution for long\\-standing persistent Afib patients. AtriCure’s cryoICE cryoSPHERE® probe is cleared for temporary ablation of peripheral nerves to block pain, providing pain relief in cardiac and thoracic procedures. For more information, visit AtriCure.com or follow us on Twitter @AtriCure.We foster a culture of inclusion by embracing diverse experiences and individuals where everyone’s authentic self is welcome. We offer supporting programs and resources that provide enriching and equitable opportunities for each person to contribute professionally and personally.
-  
-  
-
-**POSITION SUMMARY:**  
 
-The Co\\-Op/Intern is an undergrad or master’s student pursing an engineering degree and is interested in gaining experience in engineering, manufacturing, assembly techniques, process development, and design principles and philosophies. The Co\\-Op/Intern will support engineering, including both sustaining engineering and new product activities. This position will start part\\-time 10\\-15 hours per week in January and transition to full\\-time for the summer semester.
-  
-  
+You will act as both a hands\\-on technical contributor and a mentor, shaping the mobile engineering culture alongside product, design, and Web3 teams.
 
-**ESSENTIAL FUNCTIONS OF THE POSITION:**  
 
-* Perform research for engineering as assigned by a supervisor
-* Write process validation/qualification protocols, perform qualification activities, and analyze/document the results
-* Design test protocols, equipment and systems as assigned by supervisor
-* Responsible for testing, following guidelines described in the AtriCure Quality System, including test report writing
-* Responsible for supporting engineering activities and other company functions as assigned by supervisor
-* Document and install process equipment
-* Identify assembly process or equipment improvements
-* Support pilot build activities including production associate training, component and assembly flow, root cause analysis and inspection data organization/collection
-* Document all work in compliance with AtriCure Quality System requirements \\& corporate policies
+As the Senior iOS Engineer, you will be the mobile expert responsible for defining how users engage with our platform's next\\-generation asset layer. Your primary focus will be on delivering exceptional UI/UX for consumers, creators, and communities on iOS.
 
+### **Key Responsibilities**
 
-**BASIC QUALIFICATIONS:**  
+* **Lead Development:** Lead the design and implementation of the flagship consumer\\-facing iOS application, covering core flows like asset discovery, launch, trading, social interactions, wallet connectivity, onboarding, and notifications.
+* **UI/UX Partnership:** Collaborate intimately with UI/UX designers to translate high\\-fidelity designs into pixel\\-perfect native iOS interfaces, including custom animations, refined transitions, adaptive layouts, accessibility, and internationalization.
+* **Technical Architecture:** Architect and implement scalable, maintainable mobile solutions using best practices (e.g., MVVM/Clean Architecture, reactive programming, modularization, dependency injection).
+* **Feature Definition:** Partner with product and design teams to define mobile\\-specific user journeys, retention drivers, onboarding conversion, and mobile\\-first social features.
+* **Performance \\& Security:** Ensure the application's performance, reliability, and security, including crash\\-free operation, network resilience, secure key handling (where applicable), and efficient use of resources.
+* **Analytics \\& Iteration:** Utilize analytics and telemetry to monitor user behavior (engagement, conversion) and define instrumentation to drive continuous UX and performance improvements.
+* **Mentorship:** Mentor and guide other mobile engineers through code reviews, establishing mobile best practices, continuous delivery pipelines, and robust testing strategies (unit, UI, integration).
+* **Innovation:** Stay current with iOS platform advancements and the intersection of Web3/blockchain and mobile technology, proposing cutting\\-edge improvements to the architecture and user experience.
 
-* Currently pursuing an undergraduate or master’s degree in Biomedical, Mechanical, or related Engineering
-* High School diploma
-* Desire to initiate a mechanical/manufacturing/engineering career in medical device industry
-* Ability to start part\\-time 10\\-15 hours per week onsite in January
+**Requirements**
 
+* **Experience:** 3\\+ years of professional experience in native iOS application development, specifically shipping polished consumer\\-facing apps to the App Store.
+* **Technical Proficiency:** Excellent proficiency in **Swift** (and **UIKit/SwiftUI**) with proven experience designing robust architecture for large\\-scale production applications.
+* **UI/UX Polish:** A demonstrable portfolio of iOS apps showcasing strong UI/UX polish: fluid animations, refined transitions, customized UI components, and adaptive layouts.
+* **Design Acumen:** Deep understanding of mobile UX design principles and Apple Human Interface Guidelines (HIG), with a keen eye for interaction quality and design detail.
+* **Collaboration:** Strong collaboration skills, comfortable participating in product discovery, defining mobile flows, and iterating quickly with designers and product managers.
+* **Performance:** Experience with performance optimization (startup time, memory/CPU, responsiveness), mobile analytics instrumentation, and crash/performance monitoring tools.
+* **Leadership:** Solid experience mentoring peers, establishing mobile engineering practices, and leading comprehensive code reviews.
+* **Mindset:** Passion for or willingness to dive deep into the Web3/blockchain frontier and mobile user experiences for token\\-related interactions and social finance.
+* **Startup Experience:** **Must have prior experience working in a fast\\-paced, high\\-growth startup environment.**
+* **Portfolio Requirement:** **Please include a link to a portfolio showcasing your work (Must).**
 
-**OTHER REQUIREMENTS:**  
+**Benefits**
 
-* Ability to regularly walk, sit, or stand as required
-* Ability to occasionally bend and push/pull
-* Ability to regularly lift up to 25 pounds, occasionally lift over 25 pounds
-* Ability to pass pre\\-employment drug screen and background check
-* 5% travel possibility
+* **Competitive Compensation:** A highly competitive salary ranging from **$250,000 to $375,000 USD**, commensurate with experience and impact.
+* **Impactful Role:** The opportunity to single\\-handedly shape the mobile experience of a cutting\\-edge Web3 platform that is redefining how creators, communities, and social engagement interact with digital assets.
+* **Design\\-Driven Culture:** Work within a design\\-driven engineering culture where mobile UX is prioritized equally with protocol and backend development.
+* **High Visibility:** Join a small, high\\-impact mobile team where your architectural decisions and code contributions will be immediately visible and highly valued.
+* **Global Exposure:** Gain exposure to global markets, evolving social/mobile behavior, community\\-driven models, and bleeding\\-edge Web3/mobile interactions.
+* **Innovation:** An environment that champions rapid experimentation, mobile innovation, and direct feedback from real user behavior.
 
+**Due to the high volume of applications we anticipate, we regret that we are unable to provide individual feedback to all candidates. If you do not hear back from us within 4 weeks of your application, please assume that you have not been successful on this occasion. We genuinely appreciate your interest and wish you the best in your job search.**
 
-\\#LI\\-KF1
-  
-  
+**Commitment to Equality and Accessibility:**
 
-AtriCure participates in the federal E\\-Verify program to confirm the identity of and employment authorization of all newly hired employees. For further information about the E\\-Verify program, please click here https://www.e\\-verify.gov/
-  
-  
 
-AtriCure is an Equal Employment Opportunity/Affirmative Action employer and provides Drug Free Workplaces. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national or ethnic origin, age, protected veteran status, status as an individual with disability, sexual orientation, gender identity or any other characteristic protected by federal, state, or local law(s).","Health Care","https://www.indeed.com/cmp/Atricure,-Inc.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/863f8041614c295534ae7e76ae50cfef","https://www.atricure.com/careers-atricure","7555 Innovation Way
-Mason, OH 45040","1,001 to 5,000","$100M to $500M (USD)","AtriCure is a leading provider of innovative technologies for the treatment of Atrial Fibrillation (Afib) and related conditions.","","","","","",""
-"in-51d308ef0fc13252","indeed","https://www.indeed.com/viewjob?jk=51d308ef0fc13252","https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/1022977","Development Engineering Intern (Spring & Summer 2026)","First Solar","Santa Clara, CA, US","2025-11-20","fulltime","direct_data","hourly",22.0,31.0,"USD",False,"","","","","*First Solar reserves the right to offer you a role most applicable to your experience and skillset.*
-**Basic Job Scope:**
+At MLabs, we are committed to offer equal opportunities to all candidates. We ensure no discrimination, accessible job adverts, and providing information in accessible formats. Our goal is to foster a diverse, inclusive workplace with equal opportunities for all. If you need any reasonable adjustments during any part of the hiring process or you would like to see the job\\-advert in an accessible format please let us know at the earliest opportunity by emailing human\\-resources@mlabs.city.
 
 
-* Leading the world’s sustainable energy future, First Solar interns work around the globe/country in research and development, marketing, project development, information technology, engineering, energy services and much more. When you work at First Solar, you will be challenged every day and provided real world experience. You will be given the opportunity to find new solutions and develop new skills to further advance your skillset. At First Solar we strive to foster a culture that encourages innovation through collaboration, urging colleagues to take smart risks, learning from failures and course correcting, and owning personal accountability for contributing to our mission.
+MLabs Ltd collects and processes the personal information you provide such as your contact details, work history, resume, and other relevant data for recruitment purposes only. This information is managed securely in accordance with MLabs Ltd’s Privacy Policy and Information Security Policy, and in compliance with applicable data protection laws. Your data may be shared only with clients and trusted partners where necessary for recruitment purposes. You may request the deletion of your data or withdraw your consent at any time by contacting legal@mlabs.city.","","https://www.indeed.com/cmp/Mlabs","",""," ","2 to 10","","","","","","","",""
+"in-a1ac83ebbb6c92ec","indeed","https://www.indeed.com/viewjob?jk=a1ac83ebbb6c92ec","https://career.luxoft.com/jobs/senior-full-stack-developer-pythonangular-19483","Senior Full Stack Developer (Python+Angular)","Luxoft","New York, NY, US","2025-11-21","","direct_data","hourly",70.0,80.0,"USD",False,"","","","","##### **Project description**
 
+Applying to the position, you may join one of the most respected and fastest growing institutional investors in the world. Our client is a professional investment management organization that globally invests the funds to ensure long\\-term sustainability. The company invests in all major asset classes, including public equity, private equity, real estate, infrastructure and fixed\\-income instruments.  
 
-**Expected Length of Internship:**
+Client attracts and selects high\\-calibre individuals from top\\-tier institutions around the globe. Join our team and look forward to:  
 
+* Diverse and inspiring colleagues and approachable leaders
+* Stimulating work in a fast\\-paced, intellectually challenging environment
+* Accelerated exposure and responsibility
+* Global career development opportunities
+* Being motivated every day by important social purpose and unshakable principles
+* A deeply rooted culture of Integrity, Partnership and High Performance
 
-* Spring/summer 2026 (January through August 2026\\).
-* As an internship company, we allow flexibility to enroll in classes while working as an intern, as long as it doesn’t interfere with the essential functions of the position.
 
+If you share a passion for performance, value a collegial and collaborative culture, and approach everything with the highest integrity, here's an opportunity.  
 
-**Education/Experience:**
+  
 
+We are hiring a contractor and ready to offer a salary within the range of 70 \\- 80 USD Gross Per Hour in NYC area.
+##### **Responsibilities**
 
-* At least junior year enrollment in an undergraduate program required.
-* Must be pursuing a degree in Material Science, Chemistry, Physics, Electrical Engineering, Chemical Engineering, or related STEM field.
-* Competency in MS Office (Excel, PowerPoint, Word).
-* Basic troubleshooting skills, critical thinking, attention to detail, good communication skills, can follow SOP and work instructions.
-* Hands\\-on experience with ALD equipment preferred but not mandatory.
-* Working knowledge of analytical tools (UV\\-Vis, AFM, SEM, SIMS, XRD, XRR, ellipsometry) preferred but not mandatory.
-* Hands\\-on experience with wet chemistry processing preferred but not mandatory.
-* Hands\\-on experience in photovoltaic device fabrication/testing preferred but not mandatory.
-* First Solar encourages all interns to register their internship with their university.
 
+Manage timelines/deliverables within the team towards the successful delivery of projects.
 
-**Required Skills/Competencies:**
 
+Design software solutions by interacting with portfolio managers, traders, operations staff and peers to understand requirements.
 
-* Applies basic skills and may develop advanced skills using tools and equipment appropriate for the position or specialization.
-* Duties and tasks may not be standardized. Resolves routine questions and problems and refers more complex issues to higher levels.
-* Works under daily supervision and follows standard procedures and instructions to accomplish assigned tasks.
 
+Develop solutions that are in line with client's technology biases, deliver efficiency and scalability, and enable new trading activities.
 
-**Basic Internship Scope (Project):**
 
+Provide knowledge transfer to team members and support staff through application demos, walkthroughs, and documentation.
 
-* Support operations for fabrication of research scale photovoltaic devices, including non\\-standard processes.
-* Support the electrical and material characterization of thin films and photovoltaic devices.
-* Upon the completion of this internship, the intern is required to present their accomplishments and project summary to the leadership team.
 
+##### **Skills**
 
-**Estimated Salary Range:**
 
+Must have
 
-* $22\\.50\\-$31\\.25 Hourly.
 
+Experience in Angular in an enterprise environment, covering the whole development life cycle
 
-**US Physical Requirements:**
 
+Experience with Python
 
-* Will sit, stand or walk short distances for up to the entire duration of a shift.
-* Will climb stairs on an occasional basis.
-* Will lift, push or pull up to 37 pounds on an occasional basis.
-* Required to use hands to grasp, lift, handle, carry or feel objects on a frequent basis.
-* 20/40 vision in both eyes together, with or without correction, is required.
-* Must be able to comply with all safety standards and procedures.
-* May reach above shoulder heights and below the waist on a frequent basis.
-* May stoop, kneel, or bend, on an occasional basis.
-* Ability to wear personal protective equipment is required (including but not limited to; steel\\-toed shoes, gloves, safety glasses, hearing protection, protective jacket or apron and arm guards, and a condition of employment and continued employment (requires little or no facial hair) for those requiring respirator use.
 
+Agile/scrum/Jira/confluence/Git
 
-All positions in our office require interaction with people and technology while either standing or sitting. To best service our customers, internal and external, all associates must be able to communicate face\\-to\\-face and on the phone with or without reasonable accommodation. First Solar is committed to compliance with its obligations under all applicable state and federal laws prohibiting employment discrimination. In keeping with this commitment, it attempts to reasonably accommodate applicants and employees in accordance with the requirements of the disability discrimination laws. It also invites individuals with disabilities to participate in a good faith, interactive process to identify reasonable accommodations that can be made without imposing an undue hardship.
 
+Experience with Cloud technologies
 
-*Potential candidates will meet the education and experience requirements provided on the above job description and excel in completing the listed responsibilities for this role. All candidates receiving an offer of employment must successfully complete a background check and any other tests that may be required.*
 
+AWS
 
-*Equal Opportunity Employer Statement: First Solar is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that diversity and inclusion is a driving force in the success of our company.*
 
+Proficiency in CI/CD pipelines
 
-  
-Job Identification
-1022977
-Job Category
-Intern
-Posting Date
-11/20/2025, 01:14 PM
-Locations
- 1035 Walsh Ave, Santa Clara, CA, 95050, US
-Job Schedule
-Full time
-Work Schedule
-M\\-F 8:00 AM \\- 4:30 PM(United States of America)","","https://www.indeed.com/cmp/First-Solar-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9e16b1a2156929b006abac2302e69b0f","https://www.firstsolar.com","Tempe, AZ","5,001 to 10,000","$1B to $5B (USD)","First Solar (Nasdaq: FSLR) is a leading global provider of comprehensive photovoltaic (PV) solar systems which use its advanced thin-film modules.","","","","","",""
-"in-4ff2370a1499f13d","indeed","https://www.indeed.com/viewjob?jk=4ff2370a1499f13d","https://recruiting.paylocity.com/recruiting/jobs/Details/3730521/Center-for-Social-Dynamics/Clinical-Leader-Intern---Rohnert-Park?source=Indeed_Feed","Clinical Leader Intern - Rohnert Park","Center for Social Dynamics","Rohnert Park, CA, US","2025-11-20","internship","direct_data","hourly",20.0,27.0,"USD",False,"","","","","Description:
 
-As part of our commitment to growing from within, we are excited to introduce CSD University! This a training program that is designed to prepare you for your next level in the ABA field. At CSD, we believe that developing our people is the key to providing excellent service and fulfilling our mission to open a world of possibilities for our clients.
+Unit and integration testing
 
 
-Are you a self\\-motivated, hands\\-on individual looking to do something passionate and meaningful with your career? Join us as we open a world of possibilities.
+Nice to have
 
 
-We are currently seeking a **Clinical Leader Intern** to join our dynamic and growing team!
+Capital Market exp
 
-* Position starts at $20\\-$27/ Hourly
-* Paid training
-* Growth \\& development opportunities
 
-**About Us**
+##### **Other**
 
 
-The Center for Social Dynamics (CSD) is an organization providing services to those with developmental delays, including autism. **Our mission is to open a world of possibilities for individuals with Autism and other developmental needs through science, compassion, and humility**.
+Languages
 
 
-We are grounded in our values of Transparency, Respect, Understanding, \\& Excellence (TRUE), which guide our efforts as a respected \\& growing employer and industry leader. Our people and programs deliver personalized, professional, evidence\\-based behavioral and developmental services to each participant, and peace of mind to caregivers that their loved ones are in the right hands.
+English: C2 Proficient
 
-**About the Opportunity**
 
+Seniority
 
-The Clinical Leader Intern designs and supervises the provision of evidence\\-based mental health services and programs for children with autism spectrum disorders and/or similar developmental disabilities in response to physician recommendations in home, school and/or other natural settings.
 
+Senior
 
-Duties \\& Responsibilities:
 
-* Adhere to CSD's Commitment to Quality Standards
-* Conduct regular home visits for the assigned caseload to provide:
-* Individualized parent education
-* Supervise the implementation of the program
-* Monitor the completion of all necessary documentation
-* Provide in\\-field feedback to Behavior Specialists
-* Provide support to Behavior Specialists by:
-* Evaluating performance and giving direct feedback
-* Addressing any concerns that might impact the validity and success of the client's ABA program with the Behavior Specialist
-* Collaborating with the training department to plan and execute individualized training
-* Monitoring daily direct service appointments for completion and accurate session notes
-* Updating and maintaining quality and continuity of lesson plans submitted by Behavior Specialists
-* Assuring that the responsibilities, authorities, and accountabilities are defined and understood by team members
-* Following up on family cancelations and ensuring make\\-up session plans
-* Maintain appropriate progress notes for supervision hours and input Direct Supervision hours on CSD's scheduling and billing program
-* Maintain appropriate progress notes for supervision hours and input Mid\\-Level Supervision (MLS) hours on CSD's scheduling and billing program
-* Meets daily and monthly billable hours goal as set by CSD
-* Educate families on the importance of maintaining a consistent schedule with the number of hours that are clinically appropriate for the client
-* Meets daily and monthly billable hours goal as set by CSD.
-* Maintain regular communication with Human Resources and the Regional Director regarding administrative concerns involving clients, Behavior Specialists, and/or Clinical Directors.
-* Remains current regarding new research, current trends and developments related to autism, special education, and related fields.
-* Attend staff meetings, in\\-services, trainings and other meetings as requested.
-* Additional job duties as assigned
+  
+New York City, United States of America
 
 
-Benefits \\& Perks
+Req. VR\\-119252
 
 
-You will have an opportunity to grow your career in this purpose\\-filled industry where you can see results every day. Benefits include:
+Python
 
-* Competitive, market pay based on experience, location, and skills
-* Bonus eligibility
-* Paid drive time and mileage reimbursement
-* CSD issued cell phone
-* Free college or tuition reimbursement through our Dreams Come True program
 
-**About Our TRUE Values**
+BCM Industry
 
-**Transparency** in the work that we do and the actions we take to achieve our mission. There are no hidden agendas or motives at Center for Social Dynamics. Each family’s unique cultures, values, and generational dynamics.
 
-**Respect** for all and the value that everyone brings towards accomplishing our mission. No one at CSD is worth more or less, and together we are greater than the sum of our parts.
+21/11/2025
 
-**Understanding** through tolerance, cooperation, and empathy in the pursuit of our mission. We never lose sight of who we are, the people we serve, and our purpose and meaning.
 
-**Excellence** in our drive, passion, and commitment to our mission. CSD will always do what it takes to deliver the best, leave no one behind, and champion our cause.
+Req. VR\\-119252","","https://www.indeed.com/cmp/Luxoft","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/aa682d67782d68b9b76c5316f9b70e4d","https://www.luxoft.com/","Zug","10,000+","Decline to state","Luxoft helps businesses innovate, adapt and compete in a constantly changing technology landscape.","","","","","",""
+"in-903cd717178714a9","indeed","https://www.indeed.com/viewjob?jk=903cd717178714a9","https://JPMorganChase.contacthr.com/149928306","Software Engineer II","JPMorganChase","Jersey City, NJ, US","2025-11-21","fulltime","direct_data","yearly",95000.0,125000.0,"USD",False,"","","","","**JOB DESCRIPTION**  
 
+You’re ready to gain the skills and experience needed to grow within your role and advance your career — and we have the perfect software engineering opportunity for you.
 
-Requirements:
-**About You**
 
+As a Software Engineer II at JPMorgan Chase within the Global Technology Asset Management Team, you will be part of an agile team dedicated to enhancing, designing, and delivering the software components of the firm’s cutting\\-edge technology products in a secure, stable, and scalable manner. In your role as an emerging member of the software engineering team, you will execute software solutions by designing, developing, and troubleshooting various components within a technical product, application, or system, while acquiring the skills and experience necessary for growth in your position.
 
-Requirements \\& Qualifications
+**Job responsibilities**
 
-* Minimum of a bachelor's degree in one of the following disciplines: psychology, childhood development, childhood education, special education, pediatric therapy (physical, occupational, or speech therapy), or related field
-* Must be eligible to enroll or already enrolled in a master's program (BCBA)
-* 2\\+ years of related professional experience implementing behavior modification intervention services OR 1 year of related professional experience implementing behavior modification intervention services and 12 semester units in applied behavior analysis OR you are a Board Certified associate Behavior Analyst
-* Knowledgeable of methodologies found to benefit children with autism spectrum disorders, including Applied Behavioral Analysis (""ABA""), Early Start Denver Model (""ESDM""), Treatment and Education of Autistic and related Communication\\-Handicapped Children (""TEACCH""), Picture Exchange Communication System (""PECS"") and Pivotal Response Training (""PRT"")
-* Ability to travel to and work in multiple program service areas
-* Reliable transportation is required
+* Executes standard software solutions, design, development, and technical troubleshooting
+* Writes secure and high\\-quality code using the syntax of at least one programming language with limited guidance
+* Designs, develops, codes, and troubleshoots with consideration of upstream and downstream systems and technical implications
+* Applies knowledge of tools within the Software Development Life Cycle toolchain to improve the value realized by automation
+* Applies technical troubleshooting to break down solutions and solve technical problems of basic complexity
+* Gathers, analyzes, and draws conclusions from large, diverse data sets to identify problems and contribute to decision\\-making in service of secure, stable application development
+* Learns and applies system processes, methodologies, and skills for the development of secure, stable code and systems
+* Adds to team culture of diversity, opportunity, inclusion, and respect
 
+**Required qualifications, capabilities, and skills**
 
-Physical requirements may include but is not limited to:
+* Formal training or certification on software engineering concepts and 2\\+ years applied experience
+* Hands\\-on practical experience in system design, application development, testing, and operational stability
+* Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages
+* Demonstrable ability to code in one or more languages
+* Experience across the whole Software Development Life Cycle
+* Exposure to agile methodologies such as CI/CD, Application Resiliency, and Security
+* Emerging knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)
 
-* Constant visual stimulation, including close vision, distance vision, reading, computer work
-* Constant sitting; frequent up and down out of chair
-* Constant use of telephone, speaking, listening
-* Constant document handling, use of copier and fax machine, filing
-* Frequent typing, use of computer
-* Occasional walking around building
-* Occasional bending, reaching, stooping, pulling
-* Occasional lifting, carrying, moving of items up to 20 pounds
-* Occasional walking to, bending to enter, sitting and using upper and lower limbs to drive car
+**Preferred qualifications, capabilities, and skills**
 
+* Familiarity with modern front\\-end technologies
+* Exposure to cloud technologies
 
-CSD is a proud equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.
 
+**ABOUT US**  
 
-In accordance with the Fair Chance Act, we will consider for employment qualified applicants with arrest and conviction records. CSD is dedicated to ensuring fair hiring practices and encourages all individuals, including those with prior criminal histories, to apply.
 
+JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission\\-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on\\-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process.
 
-\\#LI\\-Onsite","","https://www.indeed.com/cmp/Center-For-Social-Dynamics","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f4e93c98c464da67463173c0c914ed2c","http://www.csdautismservices.com","","1,001 to 5,000","Decline to state","The Center for Social Dynamics (CSD) is a multi-cultural organization providing ABA autism treatment to diverse populations in the Bay Area.","","","","","",""
-"in-3cd07a10ff8ccfcd","indeed","https://www.indeed.com/viewjob?jk=3cd07a10ff8ccfcd","https://ptc.eightfold.ai/careers/job/137477888549","Arena Software Engineer Intern","PTC","Foster City, CA, US","2025-11-20","internship","","hourly","","","USD",False,"","","","TalentAcquisition@ptc.com","Our world is transforming, and PTC is leading the way. Our software brings the physical and digital worlds together, enabling companies to improve operations, create better products, and empower people in all aspects of their business.
 
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
 
-Our people make all the difference in our success. Today, we are a global team of nearly 7,000 and our main objective is to create opportunities for our team members to explore, learn, and grow – all while seeing their ideas come to life and celebrating the differences that make us who we are and the work we do possible.
 
-**Your Impact**: As a Platform Engineering Intern, you will work on internal projects that improve the development process and productivity. You may also work on innovative projects that could have an impact on future features in the product.
+JPMorgan Chase \\& Co. is an Equal Opportunity Employer, including Disability/Veterans
 
- **Your Team**: At Arena, a PTC Business, we help high tech manufacturers and medical device companies create products that change the world. Our cloud\\-based product lifecycle management (PLM) and quality management (QMS) software is used by leading product innovators like Nutanix, Bio\\-Rad, Sonos, Teleflex, and Citrix. Join our PTC family and you will thrive in an award\\-winning workplace that fosters a work\\-life balance.
+  
 
- **Day\\-To\\-Day**:
+  
 
+  
 
-The position mostly involves backend development. We use Java/Scala mostly. Python is also used in some projects.
+**ABOUT THE TEAM**  
 
+  
 
-Document the project requirements and technical design
+Our professionals in our Corporate Functions cover a diverse range of areas from finance and risk to human resources and marketing. Our corporate teams are an essential part of our company, ensuring that we’re setting our businesses, clients, customers and employees up for success.","","https://www.indeed.com/cmp/Jpmorganchase-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/62e186e96c7550325814ef6880fae379","https://www.jpmorganchase.com/","New York, NY","10,000+","more than $10B (USD)","Headquartered in New York City, JPMorgan Chase is the largest bank in the United States.","","","","","",""
+"in-e40203ac140a1c64","indeed","https://www.indeed.com/viewjob?jk=e40203ac140a1c64","https://click.appcast.io/t/zItgey9Ltb2yu68kCDF-YcSebE8gL3Bk-RmSGhTMnTo=","Senior .Net/ReactJS Full Stack Engineer (Remote Allowed)","Cognizant Technology Solutions","Bridgewater, NJ, US","2025-11-20","fulltime","direct_data","yearly",63000.0,100500.0,"USD",True,"","","","","**About the role**
 
 
-Develop, improve, and maintain tools used by the engineering team
+As **Full Stack Engineer**, you will make an impact by designing, developing, and maintaining software applications using the .NET 8\\. You will be a valued member of the Engineering \\& Cloud Solutions team and work collaboratively with architects, DevOps engineers, and cross\\-functional stakeholders to deliver high\\-quality, secure, and efficient solutions.
 
+**In this role, you will:**
 
-Develop, improve, and maintain features in the Arena PLM SaaS application
+* A .NET Full Stack Engineer is responsible for the design, development, and maintenance of software applications using the .NET 8
+* This includes working with technologies such as C\\#, .Net 8, ASP.NET CORE, and Entity Framework Core, Hot chocolate Graph API, REST API, Hasura, PostgreSQL, Azure ADO, Azure Service Bus, Azure B2C, Node Js, Dynatrace as well as front\\-end web development technologies such as ReactJs, Typescript, JavaScript, HTML, and CSS.
+* The Full Stack Engineer will be involved in all aspects of the software development life cycle, including requirement gathering, design, development, testing, and deployment.
+* Strong technical skills and experience with both front\\-end and back\\-end development are essential for this role.
+* Good knowledge of DDD design patterns, CQRS, and clean architecture are mandatory.
+* Good hands\\-on in ReactJS is expected.
+* The Full Stack Engineer will be able to develop, test, and deploy web applications to Azure cloud.
 
+**Work model:** Remote.
 
-Work on new innovative initiatives
 
+We strive to provide flexibility wherever possible. Based on this role’s business requirements, this is a remote position open to qualified applicants in Bridgewater, NJ. Regardless of your working arrangement, we are here to support a healthy work\\-life balance though our various wellbeing programs.
 
-Participant in technical discussions on various topics
+**Please note: A few of our roles may require in\\-person interviews at Cognizant offices or client locations, depending on project or client needs.**
 
- **Required Skills and Knowledge**
 
+The working arrangements for this role are accurate as of the date of posting. This may change based on the project you’re engaged in, as well as business and client requirements. Rest assured; we will always be clear about role expectations.
 
-Proven ability to solve problems in high\\-pressure situations.
 
 
-Strong communication skills, both written and verbal.
 
+**What you need to have to be considered:**
 
-Ability to learn quickly and apply knowledge to new tasks or technologies.
+* 5\\+ years C\\#.Net \\& React JS frontend development with backend integration experience.
+* .Net 8, C\\#.Net, React JS, ASP.Net CORE.
+* REST/Web API, Entity Framework Core, Typescript, JavaScript, HTML, CSS, GraphQL, Hasura, PostgreSQL, Azure ADO, Azure Service Bus, Azure B2C, Node Js, Dynatrace.
+* DDD design patterns, CQRS, and clean architecture.
+* Must have hands\\-on development experience using React JS.
+* Knowledge of UI Architecture patterns, hooks, CRA, webpack, SASS, LESS, etc.
+* Experience in development of SPA with ReactJS, HTML5, CSS3, GraphQL, ES6, ESLint, TSLint, etc.
+* Understands Server\\-Side Rendering, Virtual DOM, Performance optimization.
+* Familiarity with integrations patterns and invoke/consume REST or GraphQL APIs using fetch, axios, etc.
+* Familiarity with unit, integration and automation testing and associated tools or libraries, e.g., Jest etc.
 
 
-Self\\-motivated, adaptable, and willing to embrace change.
 
- **Preferred Skills and Knowledge**:
 
+**These will help you stand out:**
 
-Basic knowledge of Java programming language and build tools, such as Apache Maven
+* Bachelor’s degree in computer science, Information Technology, or a related field.
+* Able to develop SPA (Single Page Applications) consuming server\\-side REST or GraphQL APIs.
+* Build reusable components and front\\-end libraries.
+* Unit, integration, and automation testing to assure the code quality.
 
+We're excited to meet people who share our mission and can make an impact in a variety of ways. Don't hesitate to apply, even if you only meet the minimum requirements listed. Think about your transferable experiences and unique skills that make you stand out as someone who can bring new and exciting things to this role.
 
-Basic knowledge of Spring Boot and its components
+**Salary and compensation:**
 
 
-PTC carefully considers a wide variety of factors when determining compensation. The anticipated average hourly rate for this position is $32/hour. This rate reflects a good\\-faith estimate of compensation at the time of posting. Actual compensation may vary based on a candidate's major, degree currently being pursued and location.
+The annual salary for this position will be between $63,000 to $100,500 depending on the experience and other qualifications of the successful candidate. This position is also eligible for Cognizant’s discretionary annual incentive program and stock awards, based on performance and subject to the terms of Cognizant’s applicable plans.
 
+**Applications will be received by November 30****th****, 2025\\.**
 
-At PTC, we believe in the power of diverse ideas and perspectives. As a global company that values and respects all identities, cultures, and perspectives, we strive to create an inclusive PTC for ALL through an environment where everyone feels like they belong and are empowered to bring their true, authentic selves to work. Proud to be an Equal Opportunity Employer, we welcome applicants from all backgrounds and hire without regard to race, national origin, religion, age, color, ethnicity, ancestry, marital status, sex (including pregnancy), sexual orientation, gender identity, gender expression, genetic information, disability, veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
-PTC endeavors to make ptc.com/careers accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact PTC's Talent Acquisition team at TalentAcquisition@ptc.com. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.  
+**Benefits:** Cognizant offers the following benefits for this position, subject to applicable eligibility requirements:
 
-Life at PTC is about more than working with today’s most cutting\\-edge technologies to transform the physical world. It’s about showing up as you are and working alongside some of today’s most talented industry leaders to transform the world around you.
+* Medical/Dental/Vision/Life Insurance.
+* Paid holidays plus Paid Time Off.
+* 401(k) plan and contributions.
+* Long\\-term/Short\\-term Disability.
+* Paid Parental Leave.
+* Employee Stock Purchase Plan.
 
 
-If you share our passion for problem\\-solving through innovation, you’ll likely become just as passionate about the PTC experience as we are. Are you ready to explore your next career move with us?
 
 
-We respect the privacy rights of individuals and are committed to handling Personal Information responsibly and in accordance with all applicable privacy and data protection laws. Review our Privacy Policy.""","","https://www.indeed.com/cmp/Ptc-c5e4d329","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/03f0e59d9ec76fafd533e0bf4cabe5c6","http://www.ptc.com","Boston, MA","5,001 to 10,000","$1B to $5B (USD)","PTC has the most robust Internet of Things technology in the world. In 1986 we revolutionized digital 3D design, and in 1998 we were first to market with Internet-based PLM.","","","","","",""
-"in-b255d448233ad1c5","indeed","https://www.indeed.com/viewjob?jk=b255d448233ad1c5","https://www.amazon.jobs/jobs/3127861/-applied-science-internship--united-states-phd-student-science-recruiting-frontier-ai--robotics?cmpid=DA_INAD200785B","2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics","Amazon.com","San Francisco, CA, US","2025-11-17","fulltime","direct_data","hourly",65.0,107.0,"USD",False,"","","","","**DESCRIPTION**
----------------
+**Disclaimer:** The salary, other compensation, and benefits information is accurate as of the date of this posting. Cognizant reserves the right to modify this information at any time, subject to applicable law.","","https://www.indeed.com/cmp/Cognizant-Technology-Solutions","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3bd95f13d06ef8241426506395a8cad3","https://www.cognizant.com/","","10,000+","more than $10B (USD)","Cognizant helps companies modernize technology, reimagine processes and transform experiences so they stay ahead in a fast-changing world. ","","","","","",""
+"li-4337203348","linkedin","https://www.linkedin.com/jobs/view/4337203348","","Software Engineer I","Aflac","New York, NY","2025-11-20","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","**Salary Range:** 
+ $68,000 \\- $95,000
+   
 
+  
 
-Are you a brilliant mind seeking to push the boundaries of what's possible with intelligent robotics? Join our elite team of researchers and engineers \\- led by Pieter Abeel, Rocky Duan, and Peter Chen \\- at the forefront of applied science, where we're harnessing the latest advancements in large language models (LLMs) and generative AI to reshape the world of robotics and unlock new realms of innovation.  
+**Job Posting End Date:** 
+ December 1st 2025
+   
 
-As an Applied Science Intern, you'll have the unique opportunity to work alongside world\\-renowned experts, gaining invaluable hands\\-on experience with cutting\\-edge robotics technologies. You'll dive deep into exciting research projects at the intersection of AI and robotics.  
+  
 
-This internship is not just about executing tasks – it's about being a driving force behind groundbreaking discoveries. You'll collaborate with cross\\-functional teams, leveraging your expertise in areas such as deep learning, reinforcement learning, computer vision, and motion planning to tackle real\\-world problems and deliver impactful solutions.  
+**We’ve Got You Under Our Wing**
+ We are the duck. We develop and empower our people, cultivate relationships, give back to our community, and celebrate every success along the way. We do it all…
+ *The Aflac Way* 
+ .
+   
 
-Throughout your journey, you'll have access to unparalleled resources, including state\\-of\\-the\\-art computing infrastructure, cutting\\-edge research papers, and mentorship from industry luminaries. This immersive experience will not only sharpen your technical skills but also cultivate your ability to think critically, communicate effectively, and thrive in a fast\\-paced, innovative environment where bold ideas are celebrated.  
+  
 
-Join us at the forefront of applied robotics and AI, where your contributions will shape the future of intelligent systems and propel humanity forward. Seize this extraordinary opportunity to learn, grow, and leave an indelible mark on the world of technology.  
+ Aflac, a Fortune 500 company, is an industry leader in voluntary insurance products that pay cash directly to policyholders and one of America's best\\-known brands. Aflac has been recognized as Fortune’s 50 Best Workplaces for Diversity and as one of World’s Most Ethical Companies by Ethisphere.com.
+   
 
   
 
-Must be eligible and available for a full\\-time (40h/ week) 12 week internship between May 2026 and September 2026\\.  
+ Our business is about being there for people in need. So, ask yourself, are you the duck? If so, there’s a home, and a flourishing career for you at Aflac.
+   
 
   
 
-Amazon has positions available in San Francisco, CA and Seattle, WA.  
+**Worker Designation** 
+ – This role is
+ **hybrid** 
+ . This means you will be expected to report to one of our Aflac offices located at 100 Wall Street New York, NY 10005 for at least 60% of the work week. You will work from your home (within the continental US) for the remaining portion of the work week. Details of this schedule will be discussed with your leadership.
+   
 
   
 
-The ideal candidate should possess:  
+**What does it take to be successful at Aflac?**
+* Acting with Integrity
+* Communicating Effectively
+* Pursuing Self\\-Development
+* Serving Customers
+* Supporting Change
+* Supporting Organizational Goals
+* Working with Diverse Populations
 
-* Strong background in machine learning, deep learning, and/or robotics
-* Publication record at science conferences such as NeurIPS, CVPR, ICRA, RSS, CoRL, and ICLR.
-* Experience in areas such as multimodal LLMs, world models, image/video tokenization, real2Sim/Sim2real transfer, bimanual manipulation, open\\-vocabulary panoptic scene understanding, scaling up multi\\-modal LLMs, and end\\-to\\-end vision\\-language\\-action models.
-* Proficiency in Python, Experience with PyTorch or JAX
-* Excellent problem\\-solving skills, attention to detail, and the ability to work collaboratively in a team
 
+**What does it take to be successful in this role?** 
   
 
-Apply now and embark on an extraordinary journey of discovery and innovation!  
-
   
-
-Key job responsibilities  
 
-* Develop novel, scalable algorithms and modeling techniques that advance the state\\-of\\-the\\-art in areas at the intersection of LLMs and generative AI for robotics
-* Tackle challenging, groundbreaking research problems on production\\-scale data, with a focus on robotic perception, manipulation, and control
-* Collaborate with cross\\-functional teams to solve complex business problems, leveraging your expertise in areas such as deep learning, reinforcement learning, computer vision, and motion planning
-* Demonstrate the ability to work independently, thrive in a fast\\-paced, ever\\-changing environment, and communicate effectively with diverse stakeholders
-**BASIC QUALIFICATIONS**
-------------------------
+* Familiarity with Scrum methodology and DevOps best practices
+* Communication and team collaboration skills
+* Experience with modern programming languages
++ SQL
++ Python
++ Java
++ Reporting tools, e.g. QlikSense, Tableau, Power BI
++ SAP ABAP
 
-* Are enrolled in a PhD
-* Can relocate to where the internship is based
-* Experience programming in Java, C\\+\\+, Python or related language
-* Must be available for full\\-time (40 hours per week) internship for the whole duration of the internship
 
-**PREFERRED QUALIFICATIONS**
-----------------------------
+**Education \\& Experience Required**
+* Bachelor’s degree in computer science, Information Systems or related field
+* Zero to two years of programming experience
 
-* Have publications at top\\-tier peer\\-reviewed conferences or journals
-* Experience in designing experiments and statistical analysis of results
 
-  
-
-Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+*Or an equivalent combination of education and experience*
+**Principal Duties \\& Responsibilities**
+* Develop and maintain customer\\-facing applications in line with company requirements
+* Implement test\\-driven development best practices
+* Adhere to coding standards for resilience, data, and security
+* Design, test, develop, maintain customer\\-facing applications in line with company requirements to meet the needs of the business
+* Reviews system requirements and business processes; codes, tests, debugs and implements software solutions
+* Working closely with cross\\-functional departments to communicate project statuses and proposals
+* Performs other duties as required
 
-  
 
-Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+ “
+ *Candidates for this role must be authorized to work in the United States without the need for current or future visa sponsorship. We are unable to sponsor or assume sponsorship for employment visas related to this role at this time* 
+ .”
+   
 
   
 
-Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
-
-  
+**Total Rewards**
+*The salary range for this job is $68,000 \\- $95,000\\. This range is specific to the job and salary offers consider a wide range of factors that are considered in making compensation decisions, including, but not limited to: education, experience, licensure, certifications, geographic location, and peer compensation. The range has been created in good faith based on information known to Aflac at the time of the posting.*
+*At Aflac, it is not typical for an individual to be hired at or near the top of the range for the role to allow for future and continued salary growth, and compensation decisions are dependent on the circumstances of each case. This salary range does not include any potential incentive pay or benefits, however, such information will be provided separately when appropriate.*
+*In addition to the base salary, we offer an array of benefits to meet your needs including medical, dental, and vision coverage, prescription drug coverage, health care flexible spending, dependent care flexible spending, Aflac supplemental policies (Accident, Cancer, Critical Illness and Hospital Indemnity offered at no costs to employee), 401(k) plans, annual bonuses, and an opportunity to purchase company stock. On an annual basis, you’ll also be offered 11 paid holidays, up to 20 days PTO to be used for any reason, and, if eligible, state\\-mandated sick leave (Washington employees accrue 1\\-hour sick leave for every 40 hours worked) and other leaves of absence, if eligible, when needed to support your physical, financial, and emotional well\\-being. Aflac complies with all applicable leave laws, including, but not limited to, sick and safe leave, and adoption and parental leave, in all states and localities.*","Insurance","https://www.linkedin.com/company/aflac","https://media.licdn.com/dms/image/v2/C560BAQHYqAtlWKylnw/company-logo_100_100/company-logo_100_100/0/1631353432555?e=2147483647&v=beta&t=o31WYVmDD8La-xy4yLfckhSfzvviSfQ4mXwZ2P3cWl0","","","","","","","","","","",""
+"li-4311837319","linkedin","https://www.linkedin.com/jobs/view/4311837319","","Software Engineer","Ripple","New York, NY","2025-11-20","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","At Ripple, we’re building a world where value moves like information does today. It’s big, it’s bold, and we’re already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs. 
+ 
 
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
 
-  
 
-Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $65\\.38/hr in our lowest geographic market up to $107\\.40/hr in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
-"in-92355ae1e175dfd3","indeed","https://www.indeed.com/viewjob?jk=92355ae1e175dfd3","https://www.amazon.jobs/jobs/3126341/research-scientist-intern-center-for-quantum-computing?cmpid=DA_INAD200785B","Research Scientist Intern, Center for Quantum Computing","Amazon Web Services","Santa Clara, CA, US","2025-11-13","fulltime","direct_data","yearly",136000.0,212800.0,"USD",False,"","","","","**DESCRIPTION**
----------------
 
 
-The Amazon Web Services (AWS) Center for Quantum Computing (CQC) is a multi\\-disciplinary team of theoretical and experimental physicists, materials scientists, and hardware and software engineers on a mission to develop a fault\\-tolerant quantum computer.
-  
+ If you’re ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.
+ 
 
-  
 
-Throughout your internship journey, you'll have access to unparalleled resources, including state\\-of\\-the\\-art computing infrastructure, cutting\\-edge research papers, and mentorship from industry luminaries. This immersive experience will not only sharpen your technical skills but also cultivate your ability to think critically, communicate effectively, and thrive in a fast\\-paced, innovative environment where bold ideas are celebrated.  
 
-  
 
-Join us at the forefront of applied science, where your contributions will shape the future of Quantum Computing and propel humanity forward. Seize this extraordinary opportunity to learn, grow, and leave an indelible mark on the world of technology.  
+**THE WORK:** 
 
-  
 
-Amazon has positions available for Quantum Research Science and Applied Science Internships in Santa Clara, CA and Pasadena, CA.  
 
-  
 
-We are particularly interested in candidates with expertise in any of the following areas: superconducting qubits, cavity/circuit QED, quantum optics, open quantum systems, superconductivity, electromagnetic simulations of superconducting circuits, microwave engineering, benchmarking, quantum error correction, etc.  
+ The Ledger and Balance team builds and operates the internal financial systems that power real\\-time balance management, settlement, and reconciliation for Ripple’s Finance and Finance Operations teams. We design the services and data models that ensure accuracy, scalability, and transparency across fiat, crypto, and stablecoin flows.
+ 
 
-  
 
-In this role, you will work alongside global experts to develop and implement novel, scalable solutions that advance the state\\-of\\-the\\-art in the areas of quantum computing. You will tackle challenging, groundbreaking research problems, work with leading edge technology, focus on highly targeted customer use\\-cases, and launch products that solve problems for Amazon customers.  
 
-  
+**Join our team** 
+ and help build the Internet of Value — where funds move instantly, accurately, and transparently across borders and ledgers. As a Software Engineer, you’ll work at the intersection of finance and engineering, designing the systems that keep Ripple’s financial ecosystem in sync, auditable, and trusted. Every service you build and every transaction you help process strengthens the foundation of a more reliable, connected, and inclusive global financial network
+ 
 
-The ideal candidate should possess the ability to work collaboratively with diverse groups and cross\\-functional teams to solve complex business problems. A successful candidate will be a self\\-starter, comfortable with ambiguity, with strong attention to detail and the ability to thrive in a fast\\-paced, ever\\-changing environment.
-  
 
-  
 
-About the team  
+**WHAT YOU’LL DO:** 
 
-Diverse Experiences  
 
-AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
 
-  
+* Develop scalable ledger and balance platforms that power real\\-time balance management,reconciliation and settlement
+* Prototype new solutions for sophisticated software problems and implement them for customers or stakeholders
+* Design, develop, and maintain web\\-based platforms and applications for internal and commercial use
+* Work in close collaboration with members of your team within an Agile environment and contribute across the entire software development lifecycle
+* Work with teams across the organization, including operations, product, marketing, and business development to think beyond the technical implications of your design decisions
 
-Why AWS?  
 
-Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
 
-  
+**WHAT YOU'LL BRING:** 
 
-Inclusive Team Culture  
 
-Here at AWS, it’s in our nature to learn and be curious. Our employee\\-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
 
-  
+* Bachelors in Computer Science or similar \\+ 2 years of hands\\-on Software Development experience in at least one of the following technologies: Java, Python, Go
+* Full\\-stack development experience across backend services
+* Experience with accounting or finance operations
+* Experience building scalable and performant enterprise software
+* Eagerness to work openly and collaboratively with a diverse team
+* A positive attitude and a passion for sharing knowledge
 
-Mentorship \\& Career Growth  
 
-We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge\\-sharing, mentorship and other career\\-advancing resources here to help you develop into a better\\-rounded professional.  
+**NICE TO HAVE:** 
+* Experience working with accounting or finance systems
 
-  
 
-Work/Life Balance  
 
-We value work\\-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.  
+ For positions that will be based in NY, the annual salary range for this position is below. Actual salaries may vary based on numerous factors including, among other things, an individual applicant’s experience and qualifications for the position. This range does not include equity or additional compensation, such as bonuses or commissions. 
+ 
 
-  
 
-Hybrid Work  
 
-We value innovation and recognize this sometimes requires uninterrupted time to focus on a build. We also value in\\-person collaboration and time spent face\\-to\\-face. Our team affords employees options to work in the office every day or in a flexible, hybrid work model near one of our U.S. Amazon offices.
+ NY Annual Base Salary Range: $120,000 USD \\- $145,000 USD
+ 
 
-**BASIC QUALIFICATIONS**
-------------------------
 
-* Can relocate to where the internship is based
 
+**WHO WE ARE:** 
 
-\\- \\- Are enrolled in a PhD program during/through the duration of your internship  
 
-\\- \\- Are 18 years of age or older  
 
-\\- \\- Ability to work 40 hours/week minimum and commit to 11 week internship minimum**PREFERRED QUALIFICATIONS**
-----------------------------
 
-* Familiarity in one or more of the following areas: superconducting qubits, cavity/circuit QED, quantum optics, open quantum systems, superconductivity, electromagnetic simulations of superconducting circuits, microwave engineering, benchmarking, quantum error correction, etc.
-* Knowledge of R, MATLAB, Python or similar scripting language
-* Interest is staying abreast of new research developments in the field of quantum computation
 
-  
+ Do Your Best Work
+ 
 
-Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
 
-  
 
-Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+* The opportunity to build in a fast\\-paced start\\-up environment with experienced industry leaders
+* A learning environment where you can dive deep into the latest technologies and make an impact.  A professional development budget to support other modes of learning.
+* Thrive in an environment where no matter what race, ethnicity, gender, origin, or culture they identify with, every employee is a respected, valued, and empowered part of the team.
+* In\\-office collaboration for moments that matter is important to our culture, and we give managers and teams the flexibility to decide which 10\\+ days a month they come in.
+* Bi\\-weekly all\\-company meeting \\- business updates and ask me anything style discussion with our Leadership Team
+* We come together for moments that matter which include team offsites, team bonding activities, happy hours and more!
 
-  
 
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
 
-  
 
-Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $136,000/year in our lowest geographic market up to $212,800/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
-"in-a1259f0c73b6763a","indeed","https://www.indeed.com/viewjob?jk=a1259f0c73b6763a","https://www.amazon.jobs/jobs/3114666/manager-student-developer-community-aws-developer-experience?cmpid=DA_INAD200785B","Manager, Student Developer Community, AWS Developer Experience","Amazon Web Services","Mountain View, CA, US","2025-10-19","fulltime","direct_data","yearly",124100.0,205200.0,"USD",False,"","","","","**DESCRIPTION**
----------------
+ Take Control of Your Finances
+ 
 
 
-At AWS, we're passionate about empowering the next generation of cloud builders. We're seeking an innovative and strategic leader to join our Developer Experience organization and own our student programs and community initiatives. This role presents an exceptional opportunity to shape how students learn, build, and grow with AWS while creating lasting connections within the broader developer community.  
 
-  
+* Competitive salary, bonuses, and equity
+* Competitive benefits that cover physical and mental healthcare, retirement, family forming, and family support
+* Employee giving match
+* Mobile phone stipend
 
-As the People Manager for Student Programs \\& Community, you'll work at the intersection of developer education, community building, and technical advocacy. You'll collaborate with our AWS Builder Center and AWS Builder Loft teams to create seamless, engaging experiences that meet students where they are and inspire them to build their future on AWS.  
 
-  
 
-Key job responsibilities  
-
-* Lead and develop a team focused on student developer engagement and community building
-* Design and execute strategic programs that increase AWS adoption among student developers globally
-* Partner with AWS Builder Center and Builder Loft teams to create integrated student experiences
-* Build and maintain relationships with key educational institutions and student organizations
-* Define success metrics and track program effectiveness
-* Drive operational excellence in program execution and team management
-**BASIC QUALIFICATIONS**
-------------------------
-
-* 6\\+ years of professional non\\-internship marketing experience
-* Experience using data and metrics to drive improvements
-* Experience with Excel or Tableau (data manipulation, macros, charts and pivot tables)
-* Experience driving direction and alignment with cross\\-functional teams
-* 5\\+ years of team management experience
-
-**PREFERRED QUALIFICATIONS**
-----------------------------
-
-* Experience leading primary research studies across various methodologies: online quant surveys, focus groups, 1:1, ethnographies, online qual, mobile
-* Experience communicating results to senior leadership
-* Experience in third party vendor/research partner management contract negotiation
 
-  
+ Take Care of Yourself
+ 
 
-Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
 
-  
 
-Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+* R\\&R days so you can rest and recharge
+* Generous wellness reimbursement and weekly onsite \\& virtual programming
+* Generous vacation policy \\- work with your manager to take time off when you need it
+* Industry\\-leading parental leave policies. Family planning benefits.
+* Catered lunches, fully\\-stocked kitchens with premium snacks/beverages, and plenty of fun events
 
-  
 
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
 
-  
 
-Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $124,100/year in our lowest geographic market up to $205,200/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","","https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6","https://aws.amazon.com/careers/why-aws/","Seattle, WA","Decline to state","more than $10B (USD)","Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. ","","","","","",""
-"in-f76517850e23abe5","indeed","https://www.indeed.com/viewjob?jk=f76517850e23abe5","https://www.amazon.jobs/jobs/3121382/software-dev-engineer-intern--aiml-summer--artificial-general-intelligence-agi?cmpid=DA_INAD200785B","Software Dev Engineer Intern - AI/ML (Summer 2026), Artificial General Intelligence (AGI)","Amazon.com","Sunnyvale, CA, US","2025-10-16","fulltime","direct_data","hourly",47.0,96.0,"USD",False,"","","","","**DESCRIPTION**
----------------
+*Benefits listed above are for full\\-time employees.* 
 
 
-Amazon is a powerful place for AI innovation. Over the years, we’ve driven technological breakthroughs in a wide range of customer\\-facing services and internal operations, from speech recognition with Alexa to AI\\-powered robots that optimize order fulfillment.  
 
-  
 
-At Amazon Artificial General Intelligence (AGI), you’ll be at the heart of AI innovation, whether you’re working with Amazon Nova—our new generation of state\\-of\\-the\\-art foundation models—or in our San Francisco lab, where we’re developing foundational capabilities for enabling useful AI agents that can take actions in the digital and physical worlds.  
+*Ripple is an Equal Opportunity Employer. We’re committed to building a diverse and inclusive team. We do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by local law or ordinance.* 
+  
+ *Please find our UK/EU Applicant Privacy Notice and our California Applicant Privacy Notice for reference.*","Technology, Information and Internet","https://www.linkedin.com/company/ripple","https://media.licdn.com/dms/image/v2/D560BAQEKIG_L21BqTA/company-logo_100_100/B56ZUFnbr4GQAU-/0/1739555978246/rippleofficial_logo?e=2147483647&v=beta&t=XNSc2HYR6RZP-gWjb5hsBTRL97QTu048rMW7kfVCdkg","","","","","","","","","","",""
+"li-4341610061","linkedin","https://www.linkedin.com/jobs/view/4341610061","","Software Engineer - New Grad","SeatGeek","New York, NY","2025-11-19","fulltime","","","","","",True,"internship","Engineering","","","**SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan\\-first attitude we’re simplifying and modernizing the ticketing industry.**
+ We’re building an awesome entertainment ecosystem where fans have effortless access to incredible live experiences, while sports teams, venues, and shows have unprecedented access to their audiences – because everyone should expect more from the ticketing industry.
+   
 
   
 
-Our Software Development Engineer (SDE) interns use modern technology to solve complex problems while seeing their work's impact first\\-hand. The challenges SDE interns solve at Amazon are meaningful and influence millions of customers, sellers, and products globally. We seek individuals passionate about creating new products, features, and services while managing ambiguity in an environment where development cycles are measured in weeks, not years.
-  
+**Open roles for new graduates**
+ We are looking for the best and brightest Spring/Summer 2026 college graduates to help us make live entertainment even better! Experience is preferred, but not required – in fact, we look forward to supporting you by teaching you new technologies and mentoring you in software development craft as a member of our world\\-class engineering team.
+   
 
   
 
-Amazon internships across all seasons are full\\-time positions, and interns should expect to work in office, Monday\\-Friday, up to 40 hours per week typically between 8am\\-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other employment during the Amazon work\\-day. Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship concludes.  
+**We Have Roles Open In The Following Technologies**
+* Backend (Python, Go, C\\#)
+* Frontend Web (Typescript \\+ React)
+* Mobile (Kotlin, Swift)
+* Platform (AWS, Docker, Python, Go)
 
-  
 
-Key job responsibilities  
+**What You'll Do**
+* Solve unique and challenging customer problems
+* Work with leading\\-edge tech in the cloud or on web and mobile
+* Help scale our software as we grow our booming business
+* Take on the challenges of building software for a many\\-sided marketplace
+* Empower decision\\-making at a rapidly growing data\\-driven company
+* Run experiments and evaluate new technologies that will determine the future of our business for years to come
+* Build performant, beautiful, inclusive user interfaces that delight our users and enhance our brand
 
-* Collaborate and communicate effectively with experienced cross\\-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward.
-* Design and develop scalable solutions using cloud\\-native architectures and microservices in a large distributed computing environment.
-* Participate in code reviews and contribute to technical documentation.
-* Build and maintain resilient distributed systems that are scalable, fault\\-tolerant, and cost\\-effective.
-* Leverage and contribute to the development of GenAI and AI\\-powered tools to enhance development productivity while staying current with emerging technologies.
-* Write clean, maintainable code following best practices and design patterns.
-* Work in an agile environment practicing CI/CD principles while participating in operational responsibilities including on\\-call duties.
-* Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues.
 
-  
+**What You Have**
+* You are a college student graduating in the Spring/Summer of 2026, ideally in computer science or a related degree
+* Experience in building software. We'll be interested in hearing about what you've built and how you built it
+* Problem solving abilities, adept at handling technical challenges. SeatGeek engineers create custom solutions to unique ticketing problems, including venue mapping, inventory tracking, and event matching. We'll be excited to hear about the problems you've solved
+* Passion for software craftsmanship and product. You hold yourself and your code to a high standard
+* Commitment to your teammates. You enjoy working with a diverse group of people with different experiences and take pride in mentoring and learning from others
 
-A day in the life  
 
-As an SDE intern with the AGI team, you will assist in developing modeling techniques and help optimize performance of large model training using NVIDIA GPUs. You will learn to work with Amazon's diverse data sources and computing resources while gaining hands\\-on experience with Large Language Models (LLMs) and other Generative AI applications. As part of our collaborative team, you'll contribute to ongoing projects and learn about system architecture and best practices in AI infrastructure development. You will work in an Agile/Scrum environment, participating in daily stand\\-ups and sprint planning while delivering quality code.  
+**Our stack**
+ You do not need experience with all of these, but we thought you might be curious. What we care about is your experience, skills, and approach to problem\\-solving. Tools can be learned.
+   
 
   
-
-About the team  
 
-Join our AGI team and work at the forefront of AI. Collaborate with top minds pushing boundaries in deep learning, reinforcement learning, and more. Gain valuable experience and accelerate your career growth. This is a unique opportunity to create history and shape the future of artificial intelligence.  
+* Languages: Python, Go, C\\#\\+.NET Core, React\\+Typescript, Swift, Kotlin
+* Datastores: Postgres, Redis, Elasticsearch
+* Cloud: AWS
+* Version control: Gitlab
 
-  
-
-Mission of the team: We leverage our hyper\\-scalable, general\\-purpose large model training and inference systems to develop and deploy innovative sensory AI foundational models that revolutionize machine perception, interpretation and interaction, with humans and with the physical world.**BASIC QUALIFICATIONS**
-------------------------
 
-* Are 18 years of age or older
-* Experience programming with at least one modern language such as Java, C\\+\\+, or C\\# including object\\-oriented design
-* Experience with AI/ML technologies
-* Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Electrical Engineering, or related STEM fields, with an expected graduation date after October 2026
+**Perks**
+* Equity stake
+* A WFH stipend to support your home office setup
+* Unlimited PTO
+* Up to 16 weeks of fully\\-paid family leave
+* 401(k) matching program
+* Student loan support resources
+* Health, vision, dental, and life insurance
+* Up to $25k towards family building and reproductive health services
+* Gender\\-affirming care support program
+* $500 per year for wellness expenses
+* Subscriptions to Headspace (meditation), Headspace Care (therapy), and One Medical
+* $120 per month to spend on tickets to live events
+* Annual subscription to Spotify, Apple Music, or Amazon music
+* Please note you are expected to come into the SeatGeek New York City Office at least 3 days a week\\*\\*
 
-**PREFERRED QUALIFICATIONS**
-----------------------------
 
-* Previous technical internship(s) or demonstrated project experience
-* Strong problem\\-solving and analytical skills
-* Excellent written and verbal communication skills
-* Demonstrated ability to learn and adapt to new technologies quickly
-* Basic understanding of software development lifecycle (SDLC)
+*The salary range for this role is $110,000\\-$130,000 USD. Actual compensation packages within that range are based on a wide array of factors unique to each candidate, including but not limited to skill set, years and depth of experience, and certifications.*
+*SeatGeek is committed to providing equal employment opportunities to all employees and applicants for employment regardless of race, color, religion, creed, age, national origin or ancestry, ethnicity, sex, sexual orientation, gender identity or expression, disability, military or veteran status, or any other category protected by federal, state, or local law. As an equal opportunities employer, we recognize that diversity is a positive attribute and we welcome the differences and benefits that a diverse culture brings. Come join us!*
+ To review our candidate privacy notice, click here.","Technology, Information and Internet","https://www.linkedin.com/company/seatgeek","https://media.licdn.com/dms/image/v2/C4E0BAQHsVXif6p-JmA/company-logo_100_100/company-logo_100_100/0/1630619803078/seatgeek_logo?e=2147483647&v=beta&t=dyIZhwTvBV7o_R5MJEcUCVMyX6xpwWfT2SPCCEFIzsk","","","","","","","","","","",""
+"li-4318372027","linkedin","https://www.linkedin.com/jobs/view/4318372027","","Associate Software Engineer","Morgan Stanley","New York, NY","2025-11-19","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Morgan Stanley Investment Management Technology exclusively partners with the Morgan Stanley Investment Management business division to design and develop systems and integrate vendor products to globally support full life cycle business processing. Activities include Portfolio Analysis, Risk, Trading, Operations, and Sales \\& Marketing. Morgan Stanley Investment Management (MSIM) Technology also provides holistic support and quality assurance across the suite of applications used in the MSIM environment.
+   
 
   
 
-Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+ Opportunity with the team
+   
 
   
 
-Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+ Morgan Stanley is seeking a full stack developer to join the Sustainability Front Office Technology team. The individual will work as part of the global development team, which is spread across 4 MSIM sites. The individual will help the team design, develop a modern technology stack to power our digital platforms aimed unlocking efficiencies for our Investment Teams. As a front office developer, the individual will also work closely with the Sustainability team to solve operational problems and design strategic solutions to offer various Environmental, Social and Governance metrics to our Investment teams.
+   
 
   
 
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+**We Work With The Following Technologies**
+* Backend technologies \\- Core Java / Spring Boot
+* Frontend technologies \\- Angular
+* Linux / Cloud Stack / Docker / Kubernetes
+* Build tooling \\- Jenkins / Gradle
+* Database technologies \\-NoSQL MongoDB / Snowflake
 
-  
 
-Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $47\\.84/hr in our lowest geographic market up to $96\\.15/hr in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
-"in-0c9bf376285a056b","indeed","https://www.indeed.com/viewjob?jk=0c9bf376285a056b","https://www.amazon.jobs/jobs/3121440/software-dev-engineer-intern--ai-summer--amazon-devices--services?cmpid=DA_INAD200785B","Software Dev Engineer Intern - AI (Summer 2026), Amazon Devices & Services","Amazon.com","Sunnyvale, CA, US","2025-10-16","fulltime","direct_data","hourly",47.0,96.0,"USD",False,"","","","","**DESCRIPTION**
----------------
+**What You'll Do In The Role**
+* Designing and developing modern and modular web applications using modern coding and testing standards.
+* Participating in our agile ceremonies and actively driving towards the team's goals.
+* Working independently using modern software development practices.
+* Working collaboratively with a global team of technologists.
+* Leading with ideas and innovation.
+* Managing communication and partnering with our end users (Sustainability team) to design solutions.
 
 
-At Amazon, we're not just looking for people who can code \\- we're seeking future innovators who are ready to transform their classroom knowledge into real\\-world solutions. You'll work with technology that powers everything from Amazon.com to AWS, Prime Video, Amazon Fresh, and Alexa, making decisions that balance customer needs, technical constraints, and business goals. Whether you're developing innovative AI models for product recommendations, optimizing our vast logistics network to ensure faster deliveries, or helping secure homes through Ring's smart technology, your work will have tangible impact. You might even find yourself improving operational efficiency in our fulfillment centers using advanced robotics and machine learning. This hands\\-on experience at one of the world's most innovative companies, a pioneer in cloud computing, AI solutions, and customer experiences, will shape your understanding of how technology transforms industries and drives global change.
-  
+**What You'll Bring To The Role**
+* Experience developing enterprise JAVA/Angular Web applications.
+* Solid experience designing web\\-based components.
+* Solid experience writing unit, component and integration tests.
+* Solid experience working with relational database.
+* Knowledge of working with JavaScript or equivalent web technologies.
+* Basic understanding of financial markets and various financial instruments.
+* Strong computer science fundamentals.
 
-  
 
-As a Software Development Engineer (SDE) intern, you'll take everything you've learned in the classroom and apply it to projects that impact millions of customers worldwide. Instead of theoretical assignments, you'll build real features that customers use every day. You'll work alongside experienced engineers who are invested in your success, sharing their knowledge and helping you grow. The code you write won't be graded and forgotten \\- it will run in production, serving real customers across the globe. This is your chance to learn how to scale applications beyond anything you've tackled in your coursework.  
+**What You Can Expect From Morgan Stanley**
+ We are committed to maintaining the first\\-class service and high standard of excellence that have defined Morgan Stanley for over 89 years. Our values \\- putting clients first, doing the right thing, leading with exceptional ideas, committing to diversity and inclusion, and giving back \\- aren’t just beliefs, they guide the decisions we make every day to do what's best for our clients, communities and more than 80,000 employees in 1,200 offices across 42 countries. At Morgan Stanley, you’ll find an opportunity to work alongside the best and the brightest, in an environment where you are supported and empowered. Our teams are relentless collaborators and creative thinkers, fueled by their diverse backgrounds and experiences. We are proud to support our employees and their families at every point along their work\\-life journey, offering some of the most attractive and comprehensive employee benefits and perks in the industry. There’s also ample opportunity to move about the business for those who show passion and grit in their work.
+   
 
   
 
-Amazon internships across all seasons are full\\-time positions, and interns should expect to work in office, Monday\\-Friday, up to 40 hours per week typically between 8am\\-5pm. Specific team norms around working hours will be communicated by your manager. Interns should not have conflicts such as classes or other employment during the Amazon work\\-day. Applicants should have a minimum of one quarter/semester/trimester remaining in their studies after their internship concludes.  
+ To learn more about our offices across the globe, please copy and paste https://www.morganstanley.com/about\\-us/global\\-offices into your browser.
+   
 
   
 
-Key job responsibilities  
+ Expected base pay rates for the role will be between $125,000 and $135,000 per year at the commencement of employment. However, base pay if hired will be determined on an individualized basis and is only part of the total compensation package, which, depending on the position, may also include commission earnings, incentive compensation, discretionary bonuses, other short and long\\-term incentive packages, and other Morgan Stanley sponsored benefit programs.
+   
 
-* Collaborate and communicate effectively with experienced cross\\-disciplinary Amazonians to design, build, and operate innovative products and services that delight our customers, while participating in technical discussions to drive solutions forward.
-* Design and develop scalable solutions using cloud\\-native architectures and microservices in a large distributed computing environment.
-* Participate in code reviews and contribute to technical documentation.
-* Build and maintain resilient distributed systems that are scalable, fault\\-tolerant, and cost\\-effective.
-* Leverage and contribute to the development of GenAI and AI\\-powered tools to enhance development productivity while staying current with emerging technologies.
-* Write clean, maintainable code following best practices and design patterns.
-* Work in an agile environment practicing CI/CD principles while participating in operational responsibilities including on\\-call duties.
-* Demonstrate operational excellence through monitoring, troubleshooting, and resolving production issues.
-
   
-
-A day in the life  
 
-Every day as an AI intern at Amazon Devices \\& Services will bring exciting new challenges and opportunities. You'll collaborate with your team on complex technical problems, dive deep into code, and participate in design discussions that shape future solutions. Your dedicated mentor will be there to support your growth and learning journey throughout your internship.
-  
+ Morgan Stanley's goal is to build and maintain a workforce that is diverse in experience and background but uniform in reflecting our standards of integrity and excellence. Consequently, our recruiting efforts reflect our desire to attract and retain the best and brightest from all talent pools. We want to be the first choice for prospective employees.
+   
 
   
 
-You'll own and drive a meaningful project that matters to our business and customers. From focused coding sessions to team brainstorms, you'll work alongside experienced Amazonians while learning innovative technologies. Throughout your internship, you'll connect with fellow interns, build your network, and participate in events designed for both personal and professional development. With structured feedback supporting your growth, every day offers a unique chance to experience Amazon's culture of innovation firsthand while making real impact.  
+ It is the policy of the Firm to ensure equal employment opportunity without discrimination or harassment on the basis of race, color, religion, creed, age, sex, sex stereotype, gender, gender identity or expression, transgender, sexual orientation, national origin, citizenship, disability, marital and civil partnership/union status, pregnancy, veteran or military service status, genetic information, or any other characteristic protected by law.
+   
 
   
 
-About the team  
-
-At Amazon Devices \\& Services, we imagine the future and then create it. Join brilliant minds to build new categories of technology that become part of everyone's everyday life. Together, we create connected experiences that transform lives, communities, and the world with our work.
-  
+ Morgan Stanley is an equal opportunity employer committed to diversifying its workforce (M/F/Disability/Vet).","Financial Services","https://www.linkedin.com/company/morgan-stanley","https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_100_100/company-logo_100_100/0/1677778128461/morgan_stanley_logo?e=2147483647&v=beta&t=f7aAdfTeMpLPSwCGS8zQ4DtuVYuEuN3OSYQ8ksHvOsI","","","","","","","","","","",""
+"li-4338442217","linkedin","https://www.linkedin.com/jobs/view/4338442217","https://dsp.prng.co/JWGhdzb&urlHash=GfuZ","Software Engineer 1","Intuit","New York, NY","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","**Overview**
+ Come join the Intuit Mid\\-Market Ecosystem team as a Software Engineer.
+   
 
   
 
-Say hello to Ring, Blink, and Amazon Key. Together, we’re making neighborhoods safer with products that make homes more secure and life more convenient. Our teams are on a mission to create affordable, innovative, and easy\\-to\\-use smart home security devices.**BASIC QUALIFICATIONS**
-------------------------
+ As Intuit expands its footprint in the Mid\\-Market and Enterprise segment, you will be part of the team enabling our marketing website to be best\\-in\\-class — built with reusable components, data\\-driven experimentation, and a deep focus on delivering exceptional customer experiences.
+   
 
-* Are 18 years of age or older
-* Experience programming with at least one modern language such as Java, C\\+\\+, or C\\# including object\\-oriented design
-* Experience with AI/ML technologies
-* Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Electrical Engineering, or related STEM fields, with an expected graduation date after October 2026
-
-**PREFERRED QUALIFICATIONS**
-----------------------------
-
-* Experience communicating technical concepts and processes using clear, simple language and visuals
-* Experience in GenAI and Agent service development using LLM/VLM.
-* Previous technical internship(s) or demonstrated project experience
-* Strong problem\\-solving and analytical skills
-* Demonstrated ability to learn and adapt to new technologies quickly
-* Basic understanding of software development lifecycle (SDLC)
-
   
 
-Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+ We are obsessed with understanding our customers’ needs and solving their problems at scale. In this role, you’ll collaborate cross\\-functionally to create seamless, intuitive, and high\\-performing experiences that help our customers discover the right solutions for their business growth.
+   
 
   
 
-Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+**Responsibilities**
+* Develop high\\-quality, responsive, and accessible front\\-end features using modern JavaScript frameworks (React, Vue, or similar).
+* Collaborate closely with designers and product managers to deliver intuitive, customer\\-obsessed user experiences.
+* Translate functional requirements into clean, maintainable, and efficient front\\-end code.
+* Participate in code reviews to maintain engineering excellence, quality, and consistency across the codebase.
+* Contribute to the design and development of reusable UI components that align with Intuit’s design system and brand standards.
+* Partner with back\\-end engineers to integrate APIs and ensure seamless data flow across systems.
+* Write automated tests (unit, integration, and end\\-to\\-end) to ensure product reliability and scalability.
+* Troubleshoot and resolve bugs, performance issues, and UI inconsistencies.
+* Demonstrate a growth mindset — learn new technologies, frameworks, and tools to continuously improve code quality and user experience.
+* Contribute to Agile ceremonies (daily standups, sprint planning, retrospectives) and collaborate effectively within a cross\\-functional team.
+* Show customer obsession by deeply understanding user needs and ensuring every interaction is simple, delightful, and reliable.
 
-  
 
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+**Qualifications**
+* Bachelor’s degree in Computer Science, Engineering, or equivalent practical experience.
+* 1–3 years of experience building responsive, high\\-quality web applications.
+* Strong foundation in HTML5, CSS3, and modern JavaScript (ES6\\+).
+* Hands\\-on experience with at least one major front\\-end framework (React, Vue, or Angular).
+* Understanding of state management patterns (e.g., Redux, Context API, or Vuex).
+* Familiarity with RESTful APIs and integrating front\\-end applications with back\\-end services.
+* Experience with front\\-end build tools such as Webpack, Vite, or Babel.
+* Knowledge of cross\\-browser compatibility, performance optimization, and responsive design best practices.
+* Exposure to automated testing frameworks (e.g., Jest, React Testing Library, Cypress) and a focus on delivering high\\-quality code.
+* Familiarity with version control systems (Git/GitHub) and Agile/Scrum development methodologies.
+* Strong problem\\-solving skills with attention to detail and a passion for creating intuitive, customer\\-focused user experiences.
+* Excellent communication and collaboration skills — able to work effectively with designers, product managers, and engineers.
+* Curiosity and a growth mindset — continuously learning new technologies and best practices in front\\-end development.
+* Experience with CI/CD, DevOps, or cloud environments (AWS, GCP) is a plus
 
-  
 
-Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $47\\.84/hr in our lowest geographic market up to $96\\.15/hr in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job\\-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign\\-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee\\-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.","Internet And Software","https://www.indeed.com/cmp/Amazon.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c","https://www.amazon.jobs","440 Terry Ave N, Seattle, WA, United States, Washington","10,000+","more than $10B (USD)","Our mission is to be Earth's most customer-centric company.","","","","","",""
-"li-4319393294","linkedin","https://www.linkedin.com/jobs/view/4319393294","","Intern, Machine Learning","Samsung Semiconductor","San Jose, CA","2025-11-19","","","","","","",False,"","","","","","","https://www.linkedin.com/company/samsungsemiconductor","","","","","","","","","","","",""
-"li-4332856439","linkedin","https://www.linkedin.com/jobs/view/4332856439","","AI Intern","Prologis","San Francisco, CA","2025-11-19","","","","","","",False,"","","","","","","https://www.linkedin.com/company/prologis","","","","","","","","","","","",""
-"li-4347020320","linkedin","https://www.linkedin.com/jobs/view/4347020320","","IT Intern for Workflow Automation","Western Digital","San Jose, CA","2025-11-19","","","","","","",False,"","","","","","","https://www.linkedin.com/company/western-digital","","","","","","","","","","","",""
-"li-4310020889","linkedin","https://www.linkedin.com/jobs/view/4310020889","","Product Management, Intern (Fall 2025)","Glean","Palo Alto, CA","2025-11-18","","","","","","",False,"","","","","","","https://www.linkedin.com/company/gleanwork","","","","","","","","","","","",""
-"li-4323361338","linkedin","https://www.linkedin.com/jobs/view/4323361338","","Machine Learning Intern","Numenta","Menlo Park, CA","2025-11-18","","","","","","",False,"","","","","","","https://www.linkedin.com/company/numenta","","","","","","","","","","","",""
-"li-4318417109","linkedin","https://www.linkedin.com/jobs/view/4318417109","","Live Service Marketing Operations Intern","Electronic Arts (EA)","Redwood City, CA","2025-11-18","","","","","","",False,"","","","","","","https://www.linkedin.com/company/electronic-arts","","","","","","","","","","","",""
-"li-4336655211","linkedin","https://www.linkedin.com/jobs/view/4336655211","","Intern, Corporate Development","Denali Therapeutics","South San Francisco, CA","2025-11-18","","","","","","",False,"","","","","","","https://www.linkedin.com/company/denali-therapeutics","","","","","","","","","","","",""
-"li-4336802588","linkedin","https://www.linkedin.com/jobs/view/4336802588","","Summer Intern, Finance","Emerson Collective","Palo Alto, CA","2025-11-18","","","","","","",False,"","","","","","","https://www.linkedin.com/company/emerson-collective","","","","","","","","","","","",""
-"li-4337620036","linkedin","https://www.linkedin.com/jobs/view/4337620036","","Intern, Machine Learning","Mercedes-Benz Research & Development North America, Inc.","San Jose, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/mbrdna","","","","","","","","","","","",""
-"li-4337113503","linkedin","https://www.linkedin.com/jobs/view/4337113503","","Product Marketing Intern","DomainTools","San Francisco, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/domaintools","","","","","","","","","","","",""
+ Intuit provides a competitive compensation package with a strong pay for performance rewards approach. This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers \\| Benefits). Pay offered is based on factors such as job\\-related knowledge, skills, experience, and work location. To drive ongoing fair pay for employees, Intuit conducts regular comparisons across categories of ethnicity and gender. The expected base pay range for this position is:","Software Development","https://www.linkedin.com/company/intuit","https://media.licdn.com/dms/image/v2/C560BAQFTpF8uneqScw/company-logo_100_100/company-logo_100_100/0/1661446146222/intuit_logo?e=2147483647&v=beta&t=5hsEsGdMVVpQSXz7yjJc2fshydqwaa7AOmiIPwuwgmA","","","","","","","","","","",""

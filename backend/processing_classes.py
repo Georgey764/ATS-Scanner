@@ -3,27 +3,36 @@ import numpy as np
 import PyPDF2
 import docx2txt
 import re
-import csv
-from jobspy import scrape_jobs
-
-def give_scraped_jobs(job_title):
-    jobs = scrape_jobs(
-        site_name=["indeed", "linkedin", "zip_recruiter", "google"], # "glassdoor", "bayt", "naukri", "bdjobs"
-        search_term=job_title,
-        google_search_term="software engineer jobs near San Francisco, CA since yesterday",
-        location="San Francisco, CA",
-        results_wanted=20,
-        hours_old=72,
-        country_indeed='USA',
-        
-        # linkedin_fetch_description=True # gets more info such as description, direct job url (slower)
-        # proxies=["208.195.175.46:65095", "208.195.175.45:65095", "localhost"],
-    )
-    print(f"Found {len(jobs)} jobs")
-    print(jobs.head())
-    jobs.to_csv("jobs.csv", quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False)
 
 class ResumeProcessor:
+    def _normalize_score(self, raw_score):
+        min_threshold = 0.20
+        max_threshold = 0.7
+
+        if raw_score < min_threshold:
+            return 0.0
+        if raw_score > max_threshold:
+            return 100.0
+        
+        normalized = (raw_score - min_threshold) / (max_threshold - min_threshold)
+        
+        return round(normalized * 100, 2)
+    
+    def _chunk_text(self, text, chunk_size=250, overlap=50):
+        words = text.split()
+        chunks = []
+        
+        # If resume is short, just return it as one chunk
+        if len(words) <= chunk_size:
+            return [text]
+        
+        # Create sliding window chunks
+        for i in range(0, len(words), chunk_size - overlap):
+            chunk = " ".join(words[i:i + chunk_size])
+            chunks.append(chunk)
+            
+        return chunks
+    
     def _extract_text_from_file(self, file_path):
         print("Extracting text from file...")
         text = ""
@@ -38,18 +47,14 @@ class ResumeProcessor:
 
     def _clean_text(self, text):
         print("Cleaning up extracted text...")
-        # 1. Lowercase everything
+
         text = text.lower()
-        
-        # 2. Remove emails and URLs (they add noise)
+
         text = re.sub(r'\S+@\S+', '', text)
         text = re.sub(r'http\S+', '', text)
         
-        # 3. Remove special characters and numbers (keep text only)
-        # This helps focus on the semantic meaning of words
-        text = re.sub(r'[^a-zA-Z\s]', '', text)
-        
-        # 4. Remove extra whitespace
+        text = re.sub(r'[^a-zA-Z0-9\s\+\#\.\-]', '', text)
+
         text = re.sub(r'\s+', ' ', text).strip()
         
         return text
@@ -60,17 +65,34 @@ class ResumeProcessor:
         self.resume_text = self._clean_text(text)
         
     def get_similarity_score(self, job_description):
-        print("Calculating Similarity Score")
-        embeddings = self.model.encode([self.resume_text, job_description])
-        
-        resume_vector = embeddings[0]
-        jd_vector = embeddings[1]
+        try:
+            print("Calculating Symmetric Similarity...")
+            
+            resume_chunks = self._chunk_text(self.resume_text, chunk_size=250, overlap=50)
+            
+            jd_chunks = self._chunk_text(job_description, chunk_size=250, overlap=50)
+            
+            print(f"Resume Chunks: {len(resume_chunks)} | JD Chunks: {len(jd_chunks)}")
 
-        resume_vector = resume_vector.reshape(1, -1)
-        jd_vector = jd_vector.reshape(1, -1)
+            resume_vectors = self.model.encode(resume_chunks)
+            jd_vectors = self.model.encode(jd_chunks)
+
+            similarity_matrix = cosine_similarity(resume_vectors, jd_vectors)
+
+            best_matches_for_jd = np.max(similarity_matrix, axis=0)
+            
+            model_score = round(np.mean(best_matches_for_jd), 2)
+            final_score = self._normalize_score(model_score)
+            
+            print(f"Symmetric Score: {model_score}")
+            return final_score
+
+        except Exception as e:
+            print(f"Error: {e}")
+            raise e
+
         
-        score = cosine_similarity(resume_vector, jd_vector)[0][0]
-        
-        return round(score * 100, 2)
+    
+   
         
     
