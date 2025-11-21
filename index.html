@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Job Application Analyzer 🚀</title>
+    <style>
+      /* CSS Reset and Variables */
+      :root {
+        --primary-color: #4a90e2; /* Blue */
+        --secondary-color: #50e3c2; /* Teal */
+        --text-color: #333;
+        --background-color: #f7f9fc;
+        --card-background: #ffffff;
+        --border-radius: 8px;
+        --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        --font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+        /* New Match Colors */
+        --match-low: #e74c3c; /* Red */
+        --match-medium: #f1c40f; /* Yellow */
+        --match-high: #2ecc71; /* Green */
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: var(--font-family);
+        background-color: var(--background-color);
+        color: var(--text-color);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        padding: 20px;
+      }
+
+      /* Container/Card Styling */
+      .container {
+        width: 100%;
+        max-width: 700px;
+        background: var(--card-background);
+        border-radius: var(--border-radius);
+        box-shadow: var(--box-shadow);
+        padding: 40px;
+        transition: transform 0.3s ease-in-out;
+      }
+
+      .container:hover {
+        transform: translateY(-5px);
+      }
+
+      /* Header */
+      h2 {
+        text-align: center;
+        color: var(--primary-color);
+        margin-bottom: 30px;
+        font-size: 1.8em;
+        border-bottom: 2px solid var(--secondary-color);
+        padding-bottom: 10px;
+      }
+
+      /* Form and Input Styling */
+      .form-group {
+        margin-bottom: 20px;
+      }
+
+      label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: 600;
+        color: var(--text-color);
+        font-size: 0.95em;
+      }
+
+      input[type="text"],
+      input[type="file"] {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: var(--border-radius);
+        font-size: 1em;
+        transition: border-color 0.3s, box-shadow 0.3s;
+      }
+
+      input[type="text"]:focus,
+      input[type="file"]:focus {
+        border-color: var(--primary-color);
+        outline: none;
+        box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.2);
+      }
+
+      /* Button Styling */
+      button {
+        width: 100%;
+        padding: 15px;
+        background-color: var(--primary-color);
+        color: white;
+        border: none;
+        border-radius: var(--border-radius);
+        font-size: 1.1em;
+        font-weight: 700;
+        cursor: pointer;
+        transition: background-color 0.3s, transform 0.1s;
+        margin-top: 20px;
+      }
+
+      button:hover {
+        background-color: #3b74b9;
+      }
+
+      button:active {
+        transform: scale(0.99);
+      }
+
+      /* --- Loading Spinner and Status --- */
+      #loadingStatus {
+        display: none; /* Initially hidden */
+        text-align: center;
+        padding: 50px 0;
+      }
+
+      .spinner {
+        border: 8px solid #f3f3f3;
+        border-top: 8px solid var(--primary-color);
+        border-radius: 50%;
+        width: 60px;
+        height: 60px;
+        animation: spin 1.5s linear infinite;
+        margin: 0 auto 20px auto;
+      }
+
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+
+      #loadingMessage {
+        font-size: 1.2em;
+        color: var(--text-color);
+        font-weight: 600;
+      }
+
+      /* --- Results List Styling --- */
+      #jobResults {
+        display: none; /* Initially hidden */
+        margin-top: 20px;
+      }
+
+      .result-card {
+        background: #fdfdff;
+        border: 1px solid #e0e0e0;
+        border-left: 5px solid var(--secondary-color);
+        padding: 20px;
+        margin-bottom: 15px;
+        border-radius: var(--border-radius);
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+      }
+
+      .result-card h3 {
+        margin-top: 0;
+        color: var(--primary-color);
+        font-size: 1.4em;
+      }
+
+      .result-card .company {
+        color: var(--text-color);
+        font-weight: 600;
+        margin-bottom: 10px;
+      }
+
+      /* Conditional Match Score Coloring */
+      .result-card .score {
+        float: right;
+        font-size: 1.2em;
+        font-weight: 700;
+      }
+
+      .result-card .match-low {
+        color: var(--match-low);
+      }
+
+      .result-card .match-medium {
+        color: var(--match-medium);
+      }
+
+      .result-card .match-high {
+        color: var(--match-high);
+      }
+
+      .result-card p {
+        font-size: 0.9em;
+        color: #555;
+        line-height: 1.4;
+      }
+
+      .result-card a {
+        display: inline-block;
+        margin-top: 10px;
+        color: var(--primary-color);
+        text-decoration: none;
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2 id="mainTitle">Submit Resume & Find Match 💼</h2>
+
+      <div id="applicationForm">
+        <div class="form-group">
+          <label for="desiredJobTitleInput">Desired Job Title:</label>
+          <input
+            type="text"
+            id="desiredJobTitleInput"
+            placeholder="e.g., Senior Data Scientist"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="cityInput">City:</label>
+          <input
+            type="text"
+            id="cityInput"
+            placeholder="e.g., New York"
+            required
+          />
+        </div>
+
+        <div class="form-group">
+          <label for="stateInput">State:</label>
+          <input type="text" id="stateInput" placeholder="e.g., NY" required />
+        </div>
+
+        <div class="form-group">
+          <label for="fileInput">Resume (PDF/Docx):</label>
+          <input type="file" id="fileInput" accept=".pdf, .docx" required />
+        </div>
+
+        <button type="button" onclick="sendData()">Submit Resume</button>
+      </div>
+
+      <div id="loadingStatus">
+        <div class="spinner"></div>
+        <div id="loadingMessage">Starting analysis...</div>
+      </div>
+
+      <div id="jobResults"></div>
+    </div>
+
+    <script>
+      // Sequence of messages for the loading state
+      const loadingMessages = [
+        "Extracting Resume Texts...",
+        "Scraping Different Desired Jobs...",
+        "Calculating Percent Match...", // This is the last message
+      ];
+      let messageInterval;
+
+      // Delay for cycling through loading messages (4 seconds)
+      const LOADING_MESSAGE_DELAY = 4000;
+
+      // --- NEW DAILY UPLOAD LIMIT CONSTANT ---
+      const MAX_DAILY_UPLOADS = 3;
+      const UPLOAD_COUNT_KEY = "dailyUploadCount";
+      const UPLOAD_DATE_KEY = "lastUploadDate";
+
+      /**
+       * Helper to get today's date in a consistent format (YYYY-MM-DD).
+       * @returns {string} Today's date string.
+       */
+      function getTodayDateString() {
+        return new Date().toISOString().split("T")[0];
+      }
+
+      /**
+       * Checks if the user has exceeded the daily upload limit.
+       * @returns {boolean} True if the limit has been reached, false otherwise.
+       */
+      function checkUploadLimit() {
+        const today = getTodayDateString();
+        const lastUploadDate = localStorage.getItem(UPLOAD_DATE_KEY);
+        let count = parseInt(localStorage.getItem(UPLOAD_COUNT_KEY)) || 0;
+
+        // If it's a new day, reset the count
+        if (lastUploadDate !== today) {
+          count = 0;
+          localStorage.setItem(UPLOAD_COUNT_KEY, 0);
+          localStorage.setItem(UPLOAD_DATE_KEY, today);
+        }
+
+        if (count >= MAX_DAILY_UPLOADS) {
+          return true; // Limit exceeded
+        }
+
+        return false; // Limit not exceeded
+      }
+
+      /**
+       * Increments the upload count and updates the date in local storage.
+       */
+      function incrementUploadCount() {
+        const today = getTodayDateString();
+        let count = parseInt(localStorage.getItem(UPLOAD_COUNT_KEY)) || 0;
+
+        // Ensure we only increment for today's date
+        if (localStorage.getItem(UPLOAD_DATE_KEY) === today) {
+          count++;
+          localStorage.setItem(UPLOAD_COUNT_KEY, count);
+        } else {
+          // This should ideally not happen if checkUploadLimit runs first,
+          // but it serves as a fail-safe to initialize for today.
+          localStorage.setItem(UPLOAD_COUNT_KEY, 1);
+          localStorage.setItem(UPLOAD_DATE_KEY, today);
+        }
+
+        console.log(`Upload count updated: ${count}/${MAX_DAILY_UPLOADS}`);
+      }
+
+      /**
+       * Toggles the loading state display and cycles through messages.
+       * @param {boolean} isLoading - True to start loading, false to stop.
+       */
+      function toggleLoading(isLoading) {
+        const form = document.getElementById("applicationForm");
+        const loadingStatus = document.getElementById("loadingStatus");
+        const loadingMessage = document.getElementById("loadingMessage");
+        const submitButton = document.querySelector("button");
+
+        if (isLoading) {
+          form.style.display = "none";
+          loadingStatus.style.display = "block";
+
+          let messageIndex = 0;
+          loadingMessage.textContent = loadingMessages[messageIndex];
+
+          // Cycle through messages, stopping at the last one
+          messageInterval = setInterval(() => {
+            if (messageIndex < loadingMessages.length - 1) {
+              messageIndex++;
+              loadingMessage.textContent = loadingMessages[messageIndex];
+            } else {
+              // Stop the interval once the last message is reached
+              clearInterval(messageInterval);
+              // Keep the spinner visible and the last message displayed
+            }
+          }, LOADING_MESSAGE_DELAY);
+
+          submitButton.disabled = true;
+        } else {
+          // Stop loading
+          clearInterval(messageInterval);
+          loadingStatus.style.display = "none";
+          submitButton.disabled = false;
+        }
+      }
+
+      /**
+       * Renders the job results on the screen.
+       * @param {Object|Array} data - Single job object or an array of job objects.
+       */
+      function displayJobResults(data) {
+        const resultsContainer = document.getElementById("jobResults");
+        resultsContainer.innerHTML = ""; // Clear previous results
+
+        let jobs = Array.isArray(data) ? data : data ? [data] : [];
+
+        if (jobs.length === 0) {
+          resultsContainer.innerHTML =
+            '<div class="no-results">No matching jobs found.</div>';
+          return;
+        }
+
+        jobs.forEach((jobData) => {
+          const description = jobData.description || "";
+          const safeDescription =
+            description.length > 200
+              ? description.substring(0, 200) + "..."
+              : description;
+
+          const scoreValue = parseFloat(jobData.similarity_score) || 0;
+          const scorePercent = scoreValue.toFixed(1);
+
+          // Determine the CSS class based on the percentage score
+          let scoreClass;
+          if (scorePercent <= 33) {
+            scoreClass = "match-low"; // Red
+          } else if (scorePercent <= 59) {
+            scoreClass = "match-medium"; // Yellow
+          } else {
+            scoreClass = "match-high"; // Green
+          }
+
+          const cardHtml = `
+            <div class="result-card">
+              <span class="score ${scoreClass}">${scorePercent}% Match</span>
+              <h3>${jobData.title || "Job Title Not Provided"}</h3>
+              <div class="company">${jobData.company || "Company Unknown"}</div>
+              <p>${safeDescription || "Description not available."}</p>
+              ${
+                jobData.job_link
+                  ? `<a href="${jobData.job_link}" target="_blank">View Full Job &rarr;</a>`
+                  : ""
+              }
+            </div>
+          `;
+
+          resultsContainer.innerHTML += cardHtml;
+        });
+      }
+
+      async function sendData() {
+        const jobTitle = document.getElementById("desiredJobTitleInput").value;
+        const city = document.getElementById("cityInput").value;
+        const state = document.getElementById("stateInput").value;
+        const fileInput = document.getElementById("fileInput");
+        const file = fileInput.files[0];
+        const submitButton = document.querySelector("button");
+        const originalButtonText = "Submit Resume";
+        const mainTitle = document.getElementById("mainTitle");
+        const originalTitle = mainTitle.textContent;
+
+        if (!file || !jobTitle || !city || !state) {
+          alert("Please fill in all fields and select a resume file.");
+          return;
+        }
+
+        // --- CHECK DAILY UPLOAD LIMIT ---
+        if (checkUploadLimit()) {
+          alert(
+            `Daily upload limit of ${MAX_DAILY_UPLOADS} exceeded. Please try again tomorrow.`
+          );
+          return;
+        }
+
+        const formData = new FormData();
+        formData.append("resume", file);
+        formData.append("job_title", jobTitle);
+        formData.append("city", city);
+        formData.append("state", state);
+
+        // 1. START LOADING STATE (Hides form, shows spinner, starts message sequence)
+        toggleLoading(true);
+
+        try {
+          const response = await fetch(
+            "http://127.0.0.1:8000/submit-job-application/",
+            {
+              method: "POST",
+              body: formData,
+            }
+          );
+
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+
+          const result = await response.json();
+          console.log("Success Response:", result);
+
+          const jobData = result.result;
+
+          // --- INCREMENT UPLOAD COUNT ON SUCCESS ---
+          incrementUploadCount();
+
+          // 2. STOP LOADING and DISPLAY RESULTS
+          toggleLoading(false);
+
+          if (jobData) {
+            // Success: Show Results
+            document.getElementById("jobResults").style.display = "block";
+            mainTitle.textContent = "Top Job Matches Found ✨";
+
+            displayJobResults(jobData);
+          } else {
+            // Handle case where API succeeds but returns no matching data
+            document.getElementById("jobResults").style.display = "block";
+            document.getElementById("jobResults").innerHTML =
+              '<div class="no-results">Analysis complete, but no job matches were found based on your criteria.</div>';
+            mainTitle.textContent = "Analysis Complete!";
+          }
+        } catch (error) {
+          console.error("Error:", error);
+
+          // 3. STOP LOADING AND SHOW ERROR/RESET FORM
+          toggleLoading(false);
+
+          // Ensure form is visible again on error
+          document.getElementById("applicationForm").style.display = "block";
+          document.getElementById("jobResults").style.display = "none";
+          mainTitle.textContent = originalTitle;
+
+          submitButton.textContent = "ERROR - Try Again ❌";
+          submitButton.style.backgroundColor = "#e74c3c";
+          alert(
+            "An error occurred during submission. The form has been reset. Please check your inputs."
+          );
+
+          // Reset button text after error
+          setTimeout(() => {
+            submitButton.textContent = originalButtonText;
+            submitButton.style.backgroundColor = "var(--primary-color)";
+          }, 3000);
+        }
+      }
+    </script>
+  </body>
+</html>
